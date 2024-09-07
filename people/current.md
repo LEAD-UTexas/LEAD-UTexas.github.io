@@ -67,12 +67,12 @@ subtitle:
 
 
 <div style="width: 100%; max-width: 200px; margin: 0 auto;">
-<a href="https://lead-utexas.github.io/people/members/Liang/">
-     <img src="/people/images/Liang.jpg" alt="Manmeet" style="width: 100%;"/>
-<h4>Manmeet</h4>
+<a href="https://manmeet3591.github.io/">
+     <img src="/people/images/Manmeet.jpg" alt="Manmeet" style="width: 100%;"/>
+<h4>Manmeet Singh</h4>
 </a>
-     <p>PhD year not specified</p>
-     <p><em>Specialization???</em></p>
+     <p>Distinguished Postdoc starting in 2024</p>
+     <p><em>Climate data science</em></p>
 </div>
 
 </div>
