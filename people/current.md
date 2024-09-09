@@ -119,12 +119,12 @@ subtitle:
 --> 
 
   <div style="width: 100%; max-width: 200px; margin: 0 auto;">
-    <a href="https://lead-utexas.github.io/people/members/Liang/">
-      <img src="/people/images/Liang.jpg" alt="Jagger Alexander" style="width: 100%;"/>
+    <a href="https://jaggeralexander.github.io/">
+      <img src="/people/images/Jagger.jpg" alt="Jagger Alexander" style="width: 100%;"/>
       <h4>Jagger Alexander</h4>
     </a>
     <p>PhD starting in 2022</p>
-    <p><em>Specialization???</em></p>
+    <p><em>Climate and health</em></p>
   </div>
 
   <div style="width: 100%; max-width: 200px; margin: 0 auto;">
@@ -160,7 +160,7 @@ subtitle:
       <h4>Koutian Wu</h4>
     </a>
     <p>PhD starting in 2024</p>
-    <p><em>Integrate wood and rock moisture into Noah-MP</em></p>
+    <p><em>land surface model development</em></p>
   </div>
   
 <!--  <div style="width: 100%; max-width: 200px; margin: 0 auto;">
