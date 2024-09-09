@@ -20,8 +20,8 @@ subtitle:
         <img src="/people/images/Liang.jpg" alt="Dr. Zong-Liang Yang" style="width: 100%;"/>
         <h4>Dr. Zong-Liang Yang</h4>
     </a>
-    <p>Role</p>
-    <p><em>Specialization???</em></p>
+    <p>Role
+    <em>Specialization???</em></p>
 </div>
 
 </div>
@@ -42,8 +42,8 @@ subtitle:
      <img src="/people/images/Liang.jpg" alt="Naveen Sudharsan" style="width: 100%;"/>
     <h4>Dr. Naveen Sudharsan</h4>
 </a>
-    <p>Postdoc</p>
-    <p><em>Specialization???</em></p>
+    <p>Postdoc
+    <em>Specialization???</em></p>
 </div>
 
 <div style="width: 100%; max-width: 200px; margin: 0 auto;">
@@ -51,8 +51,8 @@ subtitle:
      <img src="/people/images/Liang.jpg" alt="Chenxi Hu" style="width: 100%;"/>
     <h4>Dr. Chenxi Hu</h4>
 </a>
-    <p>Postdoc starting in 2024</p>
-    <p><em>Specialization???</em></p>
+    <p>Postdoc starting in 2024
+    <em>Specialization???</em></p>
 </div>
 
 <div style="width: 100%; max-width: 200px; margin: 0 auto;">
@@ -60,8 +60,8 @@ subtitle:
      <img src="/people/images/Liang.jpg" alt="Shyama Mohanty" style="width: 100%;"/>
     <h4>Dr. Shyama Mohanty</h4>
 </a>
-    <p>Postdoc starting in 2024</p>
-    <p><em>Specialization???</em></p>
+    <p>Postdoc starting in 2024
+    <em>Specialization???</em></p>
 </div>
 
 
@@ -86,8 +86,8 @@ subtitle:
       <img src="/people/images/Liang.jpg" alt="Harsh" style="width: 100%;"/>
       <h4>Harsh Kamath</h4>
     </a>
-    <p>PhD starting in 2021, co-supervised by Dr.Yang</p>
-    <p><em>Specialization???</em></p>
+    <p>PhD starting in 2021, co-supervised by Dr.Yang
+    <em>Specialization???</em></p>
   </div>
   
   <div style="width: 100%; max-width: 200px; margin: 0 auto;">
@@ -95,8 +95,8 @@ subtitle:
       <img src="/people/images/Liang.jpg" alt="Mahmoud Mbarak" style="width: 100%;"/>
       <h4>Mahmoud Mbarak</h4>
     </a>
-    <p>PhD starting in 2021</p>
-    <p><em>Specialization???</em></p>
+    <p>PhD starting in 2021
+    <em>Specialization???</em></p>
   </div>
 
   <div style="width: 100%; max-width: 200px; margin: 0 auto;">
@@ -104,8 +104,8 @@ subtitle:
       <img src="/people/images/Sui.jpg" alt="Xinxin Sui" style="width: 100%;"/>
       <h4>Xinxin Sui</h4>
     </a>
-    <p>PhD starting in 2021, co-supervised by Dr.Yang</p>
-    <p><em>Urban Hydroclimatology</em></p>
+    <p>PhD starting in 2021, co-supervised by Dr.Yang
+    <em>Urban Hydroclimatology</em></p>
   </div>
 
 <!--  <div style="width: 100%; max-width: 200px; margin: 0 auto;">
@@ -113,8 +113,8 @@ subtitle:
       <img src="/people/images/Liang.jpg" alt="Caleb Earl Adams" style="width: 100%;"/>
       <h4>Caleb Earl Adams</h4>
     </a>
-    <p>PhD starting in 2022</p>
-    <p><em>Specialization???</em></p>
+    <p>PhD starting in 2022
+    <em>Specialization???</em></p>
   </div>
 --> 
 
@@ -123,8 +123,8 @@ subtitle:
       <img src="/people/images/Jagger.jpg" alt="Jagger Alexander" style="width: 100%;"/>
       <h4>Jagger Alexander</h4>
     </a>
-    <p>PhD starting in 2022</p>
-    <p><em>Climate and health</em></p>
+    <p>PhD starting in 2022
+    <em>Climate and health</em></p>
   </div>
 
   <div style="width: 100%; max-width: 200px; margin: 0 auto;">
@@ -132,8 +132,8 @@ subtitle:
       <img src="/people/images/Liang.jpg" alt="Chieh-Chen Lee" style="width: 100%;"/>
       <h4>Chieh-Chen Lee</h4>
     </a>
-    <p>PhD starting in 2022</p>
-    <p><em>Specialization???</em></p>
+    <p>PhD starting in 2022
+    <em>Specialization???</em></p>
   </div>
 
   <div style="width: 100%; max-width: 200px; margin: 0 auto;">
@@ -141,8 +141,8 @@ subtitle:
       <img src="/people/images/Liang.jpg" alt="Sasanka Talukdar" style="width: 100%;"/>
       <h4>Sasanka Talukdar</h4>
     </a>
-    <p>PhD starting in 2022, co-supervised by Dr.Yang</p>
-    <p><em>Specialization???</em></p>
+    <p>PhD starting in 2022, co-supervised by Dr.Yang
+    <em>Specialization???</em></p>
   </div>
 
   <div style="width: 100%; max-width: 200px; margin: 0 auto;">
@@ -150,8 +150,8 @@ subtitle:
       <img src="/people/images/Liang.jpg" alt="Shokoufeh Khojeh" style="width: 100%;"/>
       <h4>Shokoufeh Khojeh</h4>
     </a>
-    <p>PhD starting in 2023</p>
-    <p><em>Specialization???</em></p>
+    <p>PhD starting in 2023
+    <em>Specialization???</em></p>
   </div>
   
   <div style="width: 100%; max-width: 200px; margin: 0 auto;">
@@ -159,8 +159,8 @@ subtitle:
       <img src="/people/images/Wu.jpg" alt="Koutian Wu" style="width: 100%;"/>
       <h4>Koutian Wu</h4>
     </a>
-    <p>PhD starting in 2024</p>
-    <p><em>land surface model development</em></p>
+    <p>PhD starting in 2024
+    <em>land surface model development</em></p>
   </div>
   
 <!--  <div style="width: 100%; max-width: 200px; margin: 0 auto;">
@@ -168,8 +168,8 @@ subtitle:
       <img src="/people/images/Liang.jpg" alt="Rakshith" style="width: 100%;"/>
       <h4>Rakshith</h4>
     </a>
-    <p>PhD starting in 2024</p>
-    <p><em>Specialization???</em></p>
+    <p>PhD starting in 2024
+    <em>Specialization???</em></p>
   </div>
 -->
 
@@ -178,8 +178,8 @@ subtitle:
       <img src="/people/images/Liang.jpg" alt="Prudhvi" style="width: 100%;"/>
       <h4>Prudhvi</h4>
     </a>
-    <p>Master since 2024</p>
-    <p><em>Specialization???</em></p>
+    <p>Master since 2024
+    <em>Specialization???</em></p>
   </div>
 
 </div>
