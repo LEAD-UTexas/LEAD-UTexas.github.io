@@ -100,12 +100,12 @@ subtitle:
   </div>
 
   <div style="width: 100%; max-width: 200px; margin: 0 auto;">
-    <a href="https://lead-utexas.github.io/people/members/Liang/">
-      <img src="/people/images/Liang.jpg" alt="Xinxin Sui" style="width: 100%;"/>
+    <a href="https://scholar.google.com/citations?user=w1AJmpYAAAAJ&hl=en">
+      <img src="/people/images/Sui.jpg" alt="Xinxin Sui" style="width: 100%;"/>
       <h4>Xinxin Sui</h4>
     </a>
     <p>PhD starting in 2021, co-supervised by Dr.Yang</p>
-    <p><em>Specialization???</em></p>
+    <p><em>Urban Hydroclimatology</em></p>
   </div>
 
 <!--  <div style="width: 100%; max-width: 200px; margin: 0 auto;">
