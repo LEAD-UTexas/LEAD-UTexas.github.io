@@ -55,6 +55,7 @@ subtitle:
     <em>Specialization???</em></p>
 </div>
 
+<!--
 <div style="width: 100%; max-width: 200px; margin: 0 auto;">
 <a href="https://lead-utexas.github.io/people/members/ShyamaMohanty/">
      <img src="/people/images/Liang.jpg" alt="Shyama Mohanty" style="width: 100%;"/>
@@ -63,8 +64,7 @@ subtitle:
     <p>Postdoc starting in 2024
     <em>Specialization???</em></p>
 </div>
-
-
+-->
 
 <div style="width: 100%; max-width: 200px; margin: 0 auto;">
 <a href="https://manmeet3591.github.io/">
@@ -95,7 +95,7 @@ subtitle:
       <img src="/people/images/Liang.jpg" alt="Mahmoud Mbarak" style="width: 100%;"/>
       <h4>Mahmoud Mbarak</h4>
     </a>
-    <p>PhD starting in 2021
+    <p>PhD starting in 2021, co-supervised by Dr.Marc Hesse
     <em>Specialization???</em></p>
   </div>
 
@@ -173,6 +173,7 @@ subtitle:
   </div>
 -->
 
+<!--
   <div style="width: 100%; max-width: 200px; margin: 0 auto;">
     <a href="https://lead-utexas.github.io/people/members/Liang/">
       <img src="/people/images/Liang.jpg" alt="Prudhvi" style="width: 100%;"/>
@@ -181,6 +182,7 @@ subtitle:
     <p>Master since 2024
     <em>Specialization???</em></p>
   </div>
+-->
 
 </div>
 
