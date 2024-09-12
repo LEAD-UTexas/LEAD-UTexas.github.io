@@ -8,7 +8,7 @@ subtitle: land surface processes, climate modeling, land-atmosphere interaction,
 <img src="img/LEAD.jpg" width="820" align="center"/>
 
 <div style="display: flex; justify-content: center;">
-    <iframe width="800" height="450" src="https://www.youtube-nocookie.com/embed/e5cz3WhE_NI?si=vAySsQE4cTpka1Cs&amp;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <iframe width="820" height="auto" src="https://www.youtube-nocookie.com/embed/e5cz3WhE_NI?si=vAySsQE4cTpka1Cs&amp;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 <!--<div style="text-align: center;">
