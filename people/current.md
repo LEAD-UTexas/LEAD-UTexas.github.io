@@ -52,7 +52,7 @@ subtitle:
     <h4>Dr. Chenxi Hu</h4>
 </a>
     <p>Postdoc starting in 2024
-    <em>Specialization???</em></p>
+    <em>Weather and Climate Extremes</em></p>
 </div>
 
 <!--
@@ -147,12 +147,12 @@ subtitle:
   </div>
 
   <div style="width: 100%; max-width: 200px; margin: 0 auto;">
-    <a href="https://lead-utexas.github.io/people/members/Liang/">
-      <img src="/people/images/Liang.jpg" alt="Shokoufeh Khojeh" style="width: 100%;"/>
+    <a href="https://scholar.google.com/citations?user=ENiuR10AAAAJ&hl=en">
+      <img src="/people/images/Shuku.jpg" alt="Shokoufeh Khojeh" style="width: 100%;"/>
       <h4>Shokoufeh Khojeh</h4>
     </a>
     <p>PhD starting in 2023
-    <em>Specialization???</em></p>
+    <em>Flooding</em></p>
   </div>
   
   <div style="width: 100%; max-width: 200px; margin: 0 auto;">
