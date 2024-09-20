@@ -47,7 +47,7 @@ subtitle:
 </div>
 
 <div style="width: 100%; max-width: 200px; margin: 0 auto;">
-<a href="https://lead-utexas.github.io/people/members/ChenxiHu/">
+<a href="https://www.researchgate.net/profile/Hu-Chenxi-2/research">
      <img src="/people/images/Chenxi.jpg" alt="Chenxi Hu" style="width: 100%;"/>
     <h4>Dr. Chenxi Hu</h4>
 </a>
