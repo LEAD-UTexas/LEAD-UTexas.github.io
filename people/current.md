@@ -239,7 +239,7 @@ subtitle:
 <h2>Group Photos</h2>
 <hr>
 <img src="/people/images/Yang%2C%20Ana%20Barros%20et%20al.%20lunch%2020240920%20UT%20Austin%2C%20Photo%20taken%20by%20Jingxin%20Liang.jpg" width="800" align="center" hspace="20" target="_blank" title="LEAD-GroupPhoto" />
-
+Yang, Ana Barros et al. lunch 20240920 UT Austin, Photo taken by Jingxin Liang
 
 <br>
 <br>
