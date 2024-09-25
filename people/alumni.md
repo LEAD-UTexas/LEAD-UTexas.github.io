@@ -166,7 +166,7 @@ subtitle:
 </div>
 <div style="clear:both;"></div>
 <p>Ph.D. Candidate. BS (2005), Wuhan University, MS Hydrology and Water Resources Engineering (2009), Beijing Normal University.</p>
-<p><em>Research interests:</em> hydrological modeling, nutrient exports, coastal environment.</p>
+<p>hydrological modeling, nutrient exports, coastal environment.</p>
 
 <div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
 	Maryia Halubok
@@ -181,7 +181,7 @@ subtitle:
 </div>
 <div style="clear:both;"></div>
 <p>Ph.D. Aspirant. BS Hydrometeorology (2012), Belarusian State University.</p>
-<p><em>Research interests:</em> land-atmosphere interaction, remote sensing, climate change.</p>
+<p>land-atmosphere interaction, remote sensing, climate change.</p>
 
 <div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
 	Yonghwan Kwon
@@ -196,7 +196,7 @@ subtitle:
 </div>
 <div style="clear:both;"></div>
 <p>Ph.D. Candidate. B. Agr. (2004), MS Environmental Management (2009), Seoul National University.</p>
-<p><em>Research interests:</em> microwave radiative transfer in the snowpack in the forested environment, data assimilation, land surface modeling, hydrology.</p>
+<p>microwave radiative transfer in the snowpack in the forested environment, data assimilation, land surface modeling, hydrology.</p>
 
 <div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
 	Qinjian Jin
@@ -211,7 +211,7 @@ subtitle:
 </div>
 <div style="clear:both;"></div>
 <p>Ph.D. Candidate. BS Electronics and Electric Engineering (2009), Lanzhou University.</p>
-<p><em>Research interests:</em> dust emissions, aerosols, climate modeling.</p>
+<p>dust emissions, aerosols, climate modeling.</p>
 
 <div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
 	Peirong Lin
@@ -226,7 +226,7 @@ subtitle:
 </div>
 <div style="clear:both;"></div>
 <p>Ph.D. Aspirant. BS Geological Sciences and Remote Sensing (2012), Beijing University.</p>
-<p><em>Research interests:</em> lake/reservoir modeling, river networks, soil moisture, hydrological modeling, climate science.</p>
+<p>lake/reservoir modeling, river networks, soil moisture, hydrological modeling, climate science.</p>
 
 <div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
 	Xiaolu Ling
@@ -241,7 +241,7 @@ subtitle:
 </div>
 <div style="clear:both;"></div>
 <p>Visiting Ph.D. Candidate from Nanjing University (October 2013 – January 2015). BS Atmospheric Science (2010), Lanzhou University.</p>
-<p><em>Research interests:</em> data assimilation, land surface modeling, hydrology, climate science.</p>
+<p>data assimilation, land surface modeling, hydrology, climate science.</p>
 
 <div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
 	Sagar Prasad Parajuli
@@ -256,7 +256,7 @@ subtitle:
 </div>
 <div style="clear:both;"></div>
 <p>Ph.D. Aspirant. M.Sc. Water and Environmental Engineering (2012), Masdar Institute; B.E., Tribhuvan University (2005).</p>
-<p><em>Research interests:</em> dust emission and transport, soil moisture, environmental quality.</p>
+<p>dust emission and transport, soil moisture, environmental quality.</p>
 
 <div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
 	Alex Resovsky
@@ -271,7 +271,7 @@ subtitle:
 </div>
 <div style="clear:both;"></div>
 <p>MS Aspirant. BS (2008), University of New Mexico.</p>
-<p><em>Research interests:</em> climate change, methane emissions, GIS, river networks.</p>
+<p>climate change, methane emissions, GIS, river networks.</p>
 
 <div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
 	Ahmad A. Tavakoly
@@ -286,7 +286,7 @@ subtitle:
 </div>
 <div style="clear:both;"></div>
 <p>Ph.D. Aspirant. BE (2006), MS (2008), Iran University.</p>
-<p><em>Research interests:</em> river network, runoff, river flow and transport, hydrology.</p>
+<p>river network, runoff, river flow and transport, hydrology.</p>
 
 <div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
 	Yongfei Zhang
@@ -301,7 +301,7 @@ subtitle:
 </div>
 <div style="clear:both;"></div>
 <p>Ph.D. Candidate. BS Atmospheric Science (2010), Nanjing University.</p>
-<p><em>Research interests:</em> data assimilation, ensemble Kalman Filter, retrieving snow depth (and snow water equivalent) from remote sensing and land surface modeling.</p>
+<p>data assimilation, ensemble Kalman Filter, retrieving snow depth (and snow water equivalent) from remote sensing and land surface modeling.</p>
 
 <div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
 	Cédric H. David
@@ -449,7 +449,7 @@ subtitle:
 </div>
 <div style="clear:both;"></div>
 <p>September 2010 – August 2012, Ph.D. Aspirant. BS Atmospheric Science (2010), Lanzhou University.</p>
-<p><em>Research interests:</em> ensemble climate prediction, land-atmosphere interaction dynamics.</p>
+<p>ensemble climate prediction, land-atmosphere interaction dynamics.</p>
 
 <div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
 	Hee Jeung Kim
@@ -461,7 +461,7 @@ subtitle:
 </div>
 <div style="clear:both;"></div>
 <p>September 2010 – July 2011, Ph.D. Aspirant. MS Environmental Science (2003), Pusan University.</p>
-<p><em>Research interests:</em> climate change, air quality, atmospheric chemistry, climate modeling and data analysis.</p>
+<p>climate change, air quality, atmospheric chemistry, climate modeling and data analysis.</p>
 
 <div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
 	Benjamin Wagman
@@ -473,7 +473,7 @@ subtitle:
 </div>
 <div style="clear:both;"></div>
 <p>June 2009 – August 2010, Ph.D. Aspirant. BA Physics with a double major in Anthropology (2009), Grinnell College.</p>
-<p><em>Research interests:</em> climate science, climate change, paleoclimate, climate modeling.</p>
+<p>climate science, climate change, paleoclimate, climate modeling.</p>
 
 <div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
 	Yang Xue
@@ -485,7 +485,7 @@ subtitle:
 </div>
 <div style="clear:both;"></div>
 <p>September 2009 – January 2010, Ph.D. Aspirant. MS Geophysics (2009), University Stuttgart.</p>
-<p><em>Research interests:</em> geodesy, geophysics, climate science, hydrology.</p>
+<p>geodesy, geophysics, climate science, hydrology.</p>
 
 <div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
 	Amanda Barr
@@ -497,7 +497,7 @@ subtitle:
 </div>
 <div style="clear:both;"></div>
 <p>Ph.D. Aspirant, BS Astronomy (2003), University of Texas at Austin; MS Environmental Science (2006), Texas A&M University at Corpus Christi.</p>
-<p><em>Research interests:</em> global warming, data analysis.</p>
+<p>global warming, data analysis.</p>
 
 <div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
 	Sarah Doyle
@@ -520,7 +520,7 @@ subtitle:
 </div>
 <div style="clear:both;"></div>
 <p>Ph.D. Aspirant. BS Meteorology (2003), Texas A&M University; MS Meteorology (2005), Texas A&M University.</p>
-<p><em>Research interests:</em> atmospheric radiation, climatology.</p>
+<p>atmospheric radiation, climatology.</p>
 
 <div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
 	Vaidya Varada
@@ -543,7 +543,7 @@ subtitle:
 </div>
 <div style="clear:both;"></div>
 <p>MS Candidate. BA Asian Area Studies (1987), BS Microbiology (1988), University of Illinois, Urbana. MA Education (1993), Illinois State University.</p>
-<p><em>Research interests:</em> environmental policy, air quality policy.</p>
+<p>environmental policy, air quality policy.</p>
 
 <br><!-- <br>-->
 
@@ -559,7 +559,7 @@ subtitle:
 </div>
 <div style="clear:both;"></div>
 <p>Visiting Ph.D. student, Lanzhou University, China. 9 September, 2009 – 8 September 2011.</p>
-<p><em>Research interests:</em> land-atmosphere interaction, land surface modeling, semi-arid regions.</p>
+<p>land-atmosphere interaction, land surface modeling, semi-arid regions.</p>
 
 <div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
 	Ruiping Guo
@@ -571,7 +571,7 @@ subtitle:
 </div>
 <div style="clear:both;"></div>
 <p>Institute of Geography, Chinese Academy of Sciences, Beijing, China. 12 September, 2008 – 12 September, 2009.</p>
-<p><em>Research interests:</em> climate modeling, crop modeling.</p>
+<p>climate modeling, crop modeling.</p>
 
 <div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
 	Jingbing Xiao
@@ -583,7 +583,7 @@ subtitle:
 </div>
 <div style="clear:both;"></div>
 <p>Cielo Wind Power Company, Austin, TX, USA. 1 August, 2005 – 31 July, 2006.</p>
-<p><em>Research interests:</em> “Forecasting Local-scale Wind Speed and Direction in the Atmospheric Boundary Layer Using Weather Research and Forecasting Model.”</p>
+<p>“Forecasting Local-scale Wind Speed and Direction in the Atmospheric Boundary Layer Using Weather Research and Forecasting Model.”</p>
 
 <div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
 	Xinping Zhang
@@ -595,7 +595,7 @@ subtitle:
 </div>
 <div style="clear:both;"></div>
 <p>Hunan Normal University, Changsha, China. 6 September, 2005 – 24 February, 2006.</p>
-<p><em>Research interests:</em> “Stable Water Isotopes in the Community Land Model.”</p>
+<p>“Stable Water Isotopes in the Community Land Model.”</p>
 
 <div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
 	Jie Cheng
@@ -607,7 +607,7 @@ subtitle:
 </div>
 <div style="clear:both;"></div>
 <p>China University of Geosciences, Beijing, China. November 2003 – April 2004.</p>
-<p><em>Research interests:</em> “Proxy data and modeling of the Holocene climate in the source area of the Yellow River, Northeast Tibetan Plateau.”</p>
+<p>“Proxy data and modeling of the Holocene climate in the source area of the Yellow River, Northeast Tibetan Plateau.”</p>
 
 <div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
 	Jinjun Ji
@@ -725,7 +725,7 @@ subtitle:
 
 <div style="clear:both;"></div>
 <p>Ph.D., University of Iowa (1998).</p>
-<p><em>Research interests:</em> Air Quality (November 2004 to September 2005).</p>
+<p>Air Quality (November 2004 to September 2005).</p>
 
 <br><!-- <br>--><br>
 
