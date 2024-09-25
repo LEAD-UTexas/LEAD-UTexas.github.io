@@ -4,10 +4,11 @@ title: LEAD Group Alumni
 subtitle: 
 ---
 
-<b><span style="font-size: 25px !important; color: #BD0026;">NOTICE: EMAILS AND LINKS CAN BE WRONG, PLEASE CHECK</span></b>
+<h2>NOTICE: EMAILS AND LINKS CAN BE WRONG, PLEASE CHECK BY YOURSELLF</h2>
+<!-- <h2>NOTICE: SORT OF NAMES CAN BE WRONG, PLEASE CHECK BY YOURSELLF</h2>-->
+<!-- <h2><a href="https://lead-utexas.github.io/people/members/Liang/" target="_blank" >Please ref to website of Liang</a> </h2>-->
 
 <br><!-- <br>-->
-
 
 <!--
 <h2>Research staffs</h2>
@@ -17,6 +18,7 @@ subtitle:
 
 <h2>Postdoctoral Fellows or Research Associates</h2>
 <hr>
+
 <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; text-align: center;">
 
  <div style="width: 100%; max-width: 200px; margin: 0 auto;">
@@ -145,7 +147,6 @@ subtitle:
     <p>Ph.D., Chinese Academy of Sciences (2013).</p></em> 
     <p><em>land data assimilation, soil moisture, remote sensing, field measurement, Tibetan Plateau hydroclimatology.</p></em> 
 </div>
-
 
 </div>
 
