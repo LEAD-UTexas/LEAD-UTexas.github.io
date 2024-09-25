@@ -18,7 +18,6 @@ subtitle:
 
 <h2>Postdoctoral Fellows or Research Associates</h2>
 <hr>
-
 <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; text-align: center;">
 
  <div style="width: 100%; max-width: 200px; margin: 0 auto;">
@@ -26,8 +25,8 @@ subtitle:
         <img src="/img/placeholder.jpg" alt="Hua Su" style="width: 100%;"/>
         <h4>Hua Su</h4>
     </a>
-    <p>Ph.D., University of Texas at Austin (2009).</p></em> 
-    <p><em>land data assimilation, snow-climate interaction, regional climate modeling.</p></em> 
+    <p>Ph.D., University of Texas at Austin (2009).</p>
+    <p><em>land data assimilation, snow-climate interaction, regional climate modeling.</em></p>
 </div>
 
 <div style="width: 100%; max-width: 200px; margin: 0 auto;">
@@ -35,8 +34,8 @@ subtitle:
         <img src="/img/placeholder.jpg" alt="Mingxing Li" style="width: 100%;"/>
         <h4>Mingxing Li</h4>
     </a>
-    <p>Ph.D., Chinese Academy of Sciences (2010).</p></em> 
-    <p><em>soil moisture, land surface modeling, groundwater-atmosphere interaction (April 2012 to March 2013).</p></em> </em> 
+    <p>Ph.D., Chinese Academy of Sciences (2010).</p>
+    <p><em>soil moisture, land surface modeling, groundwater-atmosphere interaction (April 2012 to March 2013).</em></p>
 </div>
 
 <div style="width: 100%; max-width: 200px; margin: 0 auto;">
@@ -44,8 +43,8 @@ subtitle:
         <img src="/img/placeholder.jpg" alt="Cédric H. David" style="width: 100%;"/>
         <h4>Cédric H. David</h4>
     </a>
-    <p>Ph.D., University of Texas at Austin (2009).</p></em> </em> 
-    <p><em>GIS, hydrological modeling, river routing, parallel computing (September 2009 to August 2012).</p></em> 
+    <p>Ph.D., University of Texas at Austin (2009).</p>
+    <p><em>GIS, hydrological modeling, river routing, parallel computing (September 2009 to August 2012).</em></p>
 </div>
 
 <div style="width: 100%; max-width: 200px; margin: 0 auto;">
@@ -53,8 +52,8 @@ subtitle:
         <img src="/img/placeholder.jpg" alt="Zhongfeng Xu" style="width: 100%;"/>
         <h4>Zhongfeng Xu</h4>
     </a>
-    <p>Ph.D., Nanjing University (2008).</p></em> 
-    <p><em>regional climate modeling and dynamical climate downscaling (January 2011 to December 2011).</p></em> 
+    <p>Ph.D., Nanjing University (2008).</p>
+    <p><em>regional climate modeling and dynamical climate downscaling (January 2011 to December 2011).</em></p>
 </div>
 
 <div style="width: 100%; max-width: 200px; margin: 0 auto;">
@@ -62,8 +61,8 @@ subtitle:
         <img src="/img/placeholder.jpg" alt="Ying Han" style="width: 100%;"/>
         <h4>Ying Han</h4>
     </a>
-    <p>Ph.D., Nanjing University (2008).</p></em> 
-    <p><em>regional dust modeling (October 2011 to December 2011).</p></em> 
+    <p>Ph.D., Nanjing University (2008).</p>
+    <p><em>regional dust modeling (October 2011 to December 2011).</em></p>
 </div>
 
 <div style="width: 100%; max-width: 200px; margin: 0 auto;">
@@ -71,8 +70,8 @@ subtitle:
         <img src="/img/placeholder.jpg" alt="Seungbum (Bryan) Hong" style="width: 100%;"/>
         <h4>Seungbum (Bryan) Hong</h4>
     </a>
-    <p>Ph.D., University of South Carolina, Columbia, South Carolina (2008).</p></em> 
-    <p><em>remote sensing data analysis, data image processing, land surface modeling, hydrology (September 2008 to February 2011).</p></em> 
+    <p>Ph.D., University of South Carolina, Columbia, South Carolina (2008).</p>
+    <p><em>remote sensing data analysis, data image processing, land surface modeling, hydrology (September 2008 to February 2011).</em></p>
 </div>
 
 <div style="width: 100%; max-width: 200px; margin: 0 auto;">
@@ -80,8 +79,8 @@ subtitle:
         <img src="/img/placeholder.jpg" alt="Guo-Yue Niu" style="width: 100%;"/>
         <h4>Guo-Yue Niu</h4>
     </a>
-    <p>Ph.D., Chinese Academy of Sciences, Beijing, China (1996).</p></em> 
-    <p><em>Climate Modeling, Land Surface Modeling, Interaction of Terrestrial and Atmospheric Hydrological Processes (June 1998 to August 2009).</p></em> 
+    <p>Ph.D., Chinese Academy of Sciences, Beijing, China (1996).</p>
+    <p><em>Climate Modeling, Land Surface Modeling, Interaction of Terrestrial and Atmospheric Hydrological Processes (June 1998 to August 2009).</em></p>
 </div>
 
 <div style="width: 100%; max-width: 200px; margin: 0 auto;">
@@ -89,8 +88,8 @@ subtitle:
         <img src="/img/placeholder.jpg" alt="Jessica B. T. Rasmussen" style="width: 100%;"/>
         <h4>Jessica B. T. Rasmussen</h4>
     </a>
-    <p>Ph.D., The University of New Mexico, Albuquerque, New Mexico (2006).</p></em> 
-    <p><em>isotopic methods, caves, climate change, late Holocene climate variability (February 2007 to February 2009).</p></em> 
+    <p>Ph.D., The University of New Mexico, Albuquerque, New Mexico (2006).</p>
+    <p><em>isotopic methods, caves, climate change, late Holocene climate variability (February 2007 to February 2009).</em></p>
 </div>
 
 <div style="width: 100%; max-width: 200px; margin: 0 auto;">
@@ -98,8 +97,8 @@ subtitle:
         <img src="/img/placeholder.jpg" alt="Jeff Chun-Fung Lo" style="width: 100%;"/>
         <h4>Jeff Chun-Fung Lo</h4>
     </a>
-    <p>Ph.D., The Hong Kong University of Science and Technology (2006).</p></em> 
-    <p><em>Regional Climate Downscaling, Computer Modeling of Land/Sea Breezes, Air Quality (March 2006 to March 2008).</p></em> 
+    <p>Ph.D., The Hong Kong University of Science and Technology (2006).</p>
+    <p><em>Regional Climate Downscaling, Computer Modeling of Land/Sea Breezes, Air Quality (March 2006 to March 2008).</em></p>
 </div>
 
 <div style="width: 100%; max-width: 200px; margin: 0 auto;">
@@ -107,8 +106,8 @@ subtitle:
         <img src="/img/placeholder.jpg" alt="Yongsheng Xu" style="width: 100%;"/>
         <h4>Yongsheng Xu</h4>
     </a>
-    <p>Ph.D., University of Rhode Island (2006).</p></em> 
-    <p><em>physical oceanography, satellite data analysis, land surface hydrological modeling (October 2007 to October 2008).</p></em> 
+    <p>Ph.D., University of Rhode Island (2006).</p>
+    <p><em>physical oceanography, satellite data analysis, land surface hydrological modeling (October 2007 to October 2008).</em></p>
 </div>
 
 <div style="width: 100%; max-width: 200px; margin: 0 auto;">
@@ -116,9 +115,9 @@ subtitle:
         <img src="/img/placeholder.jpg" alt="Xuemei Wang" style="width: 100%;"/>
         <h4>Xuemei Wang</h4>
     </a>
-    <p>Ph.D., Chinese Academy of Sciences (1999).</p></em> 
-    <p>Visiting from Zhongshan University, Guangzhou, China. September 2006 to February 2007.</p></em> 
-    <p><em>Air Quality, BVOC Emissions, Climate Change, Large Eddy Simulations, Numerical Modeling.</p></em> 
+    <p>Ph.D., Chinese Academy of Sciences (1999).</p>
+    <p>Visiting from Zhongshan University, Guangzhou, China. September 2006 to February 2007.</p>
+    <p><em>Air Quality, BVOC Emissions, Climate Change, Large Eddy Simulations, Numerical Modeling.</em></p>
 </div>
 
 <div style="width: 100%; max-width: 200px; margin: 0 auto;">
@@ -126,8 +125,8 @@ subtitle:
         <img src="/img/placeholder.jpg" alt="Yiwen Xu" style="width: 100%;"/>
         <h4>Yiwen Xu</h4>
     </a>
-    <p>Ph.D., ??? University (Year).</p></em> 
-    <p><em>???</p></em> 
+    <p>Ph.D., ??? University (Year).</p>
+    <p><em>???</em></p>
 </div>
 
 <div style="width: 100%; max-width: 200px; margin: 0 auto;">
@@ -135,8 +134,8 @@ subtitle:
         <img src="/img/placeholder.jpg" alt="Dr. Jiangfeng Wei" style="width: 100%;"/>
         <h4>Dr. Jiangfeng Wei</h4>
     </a>
-    <p>Ph.D., Georgia Institute of Technology (2007).</p></em> 
-    <p><em>climate modeling, land surface modeling, land-atmosphere coupling strength, back-trajectory analysis of water vapor.</p></em> 
+    <p>Ph.D., Georgia Institute of Technology (2007).</p>
+    <p><em>climate modeling, land surface modeling, land-atmosphere coupling strength, back-trajectory analysis of water vapor.</em></p>
 </div>
 
 <div style="width: 100%; max-width: 200px; margin: 0 auto;">
@@ -144,12 +143,11 @@ subtitle:
         <img src="/img/placeholder.jpg" alt="Dr. Long Zhao" style="width: 100%;"/>
         <h4>Dr. Long Zhao</h4>
     </a>
-    <p>Ph.D., Chinese Academy of Sciences (2013).</p></em> 
-    <p><em>land data assimilation, soil moisture, remote sensing, field measurement, Tibetan Plateau hydroclimatology.</p></em> 
+    <p>Ph.D., Chinese Academy of Sciences (2013).</p>
+    <p><em>land data assimilation, soil moisture, remote sensing, field measurement, Tibetan Plateau hydroclimatology.</em></p>
 </div>
 
 </div>
-
 
 <br><!-- <br>-->
 
