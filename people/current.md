@@ -24,6 +24,12 @@ subtitle:
 
 </div>
 
+<br><!-- <br>-->
+
+
+<!--
+<h2>Research staffs</h2>
+<hr>
 
 <br><!-- <br>-->
 
@@ -221,13 +227,6 @@ subtitle:
          <p><em>Specialization???</em></p>
      </div>
 </div>
-
-<br><!-- <br>-->
-
-<!--
-<h2>Research staffs</h2>
-<hr>
--->
 
 <br><!-- <br>-->
 
