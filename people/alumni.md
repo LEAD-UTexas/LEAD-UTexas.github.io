@@ -17,7 +17,37 @@ subtitle:
 
 <h2>Postdoctoral Fellows or Research Associates</h2>
 <hr>
+<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; text-align: center;">
+<div style="width: 100%; max-width: 200px; margin: 0 auto;">
+    <a href="https://www.???/">
+        <img src="placeholder.jpg" alt="Hua Su" style="width: 100%;"/>
+        <h4>Hua Su</h4>
+    </a>
+    <p>Ph.D., University of Texas at Austin (2009).</p>
+    <p><em>Research interests:</em> land data assimilation, snow-climate interaction, regional climate modeling.</p>
+</div>
 
+<div style="width: 100%; max-width: 200px; margin: 0 auto;">
+    <a href="https://www.???/">
+        <img src="placeholder.jpg" alt="Mingxing Li" style="width: 100%;"/>
+        <h4>Mingxing Li</h4>
+    </a>
+    <p>Ph.D., Chinese Academy of Sciences (2010).</p>
+    <p><em>Research interests:</em> soil moisture, land surface modeling, groundwater-atmosphere interaction (April 2012 to March 2013).</p>
+</div>
+
+<div style="width: 100%; max-width: 200px; margin: 0 auto;">
+    <a href="https://www.???/">
+        <img src="placeholder.jpg" alt="Cédric H. David" style="width: 100%;"/>
+        <h4>Cédric H. David</h4>
+    </a>
+    <p>Ph.D., University of Texas at Austin (2009).</p>
+    <p><em>Research interests:</em> GIS, hydrological modeling, river routing, parallel computing (September 2009 to August 2012).</p>
+</div>
+
+
+
+</div>
 
 
 <br><!-- <br>-->
