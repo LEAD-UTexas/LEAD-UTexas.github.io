@@ -21,7 +21,7 @@ subtitle:
 
  <div style="width: 100%; max-width: 200px; margin: 0 auto;">
     <a href="https://www.???/">
-        <img src="img/placeholder.jpg" alt="Hua Su" style="width: 100%;"/>
+        <img src="/img/placeholder.jpg" alt="Hua Su" style="width: 100%;"/>
         <h4>Hua Su</h4>
     </a>
     <p>Ph.D., University of Texas at Austin (2009).</p></em> 
@@ -30,7 +30,7 @@ subtitle:
 
 <div style="width: 100%; max-width: 200px; margin: 0 auto;">
     <a href="https://www.???/">
-        <img src="img/placeholder.jpg" alt="Mingxing Li" style="width: 100%;"/>
+        <img src="/img/placeholder.jpg" alt="Mingxing Li" style="width: 100%;"/>
         <h4>Mingxing Li</h4>
     </a>
     <p>Ph.D., Chinese Academy of Sciences (2010).</p></em> 
@@ -39,7 +39,7 @@ subtitle:
 
 <div style="width: 100%; max-width: 200px; margin: 0 auto;">
     <a href="https://www.???/">
-        <img src="img/placeholder.jpg" alt="Cédric H. David" style="width: 100%;"/>
+        <img src="/img/placeholder.jpg" alt="Cédric H. David" style="width: 100%;"/>
         <h4>Cédric H. David</h4>
     </a>
     <p>Ph.D., University of Texas at Austin (2009).</p></em> </em> 
@@ -48,7 +48,7 @@ subtitle:
 
 <div style="width: 100%; max-width: 200px; margin: 0 auto;">
     <a href="https://www.???/">
-        <img src="img/placeholder.jpg" alt="Zhongfeng Xu" style="width: 100%;"/>
+        <img src="/img/placeholder.jpg" alt="Zhongfeng Xu" style="width: 100%;"/>
         <h4>Zhongfeng Xu</h4>
     </a>
     <p>Ph.D., Nanjing University (2008).</p></em> 
@@ -57,7 +57,7 @@ subtitle:
 
 <div style="width: 100%; max-width: 200px; margin: 0 auto;">
     <a href="https://www.???/">
-        <img src="img/placeholder.jpg" alt="Ying Han" style="width: 100%;"/>
+        <img src="/img/placeholder.jpg" alt="Ying Han" style="width: 100%;"/>
         <h4>Ying Han</h4>
     </a>
     <p>Ph.D., Nanjing University (2008).</p></em> 
@@ -66,7 +66,7 @@ subtitle:
 
 <div style="width: 100%; max-width: 200px; margin: 0 auto;">
     <a href="https://www.???/">
-        <img src="img/placeholder.jpg" alt="Seungbum (Bryan) Hong" style="width: 100%;"/>
+        <img src="/img/placeholder.jpg" alt="Seungbum (Bryan) Hong" style="width: 100%;"/>
         <h4>Seungbum (Bryan) Hong</h4>
     </a>
     <p>Ph.D., University of South Carolina, Columbia, South Carolina (2008).</p></em> 
@@ -75,7 +75,7 @@ subtitle:
 
 <div style="width: 100%; max-width: 200px; margin: 0 auto;">
     <a href="https://www.???/">
-        <img src="img/placeholder.jpg" alt="Guo-Yue Niu" style="width: 100%;"/>
+        <img src="/img/placeholder.jpg" alt="Guo-Yue Niu" style="width: 100%;"/>
         <h4>Guo-Yue Niu</h4>
     </a>
     <p>Ph.D., Chinese Academy of Sciences, Beijing, China (1996).</p></em> 
@@ -84,7 +84,7 @@ subtitle:
 
 <div style="width: 100%; max-width: 200px; margin: 0 auto;">
     <a href="https://www.???/">
-        <img src="img/placeholder.jpg" alt="Jessica B. T. Rasmussen" style="width: 100%;"/>
+        <img src="/img/placeholder.jpg" alt="Jessica B. T. Rasmussen" style="width: 100%;"/>
         <h4>Jessica B. T. Rasmussen</h4>
     </a>
     <p>Ph.D., The University of New Mexico, Albuquerque, New Mexico (2006).</p></em> 
@@ -93,7 +93,7 @@ subtitle:
 
 <div style="width: 100%; max-width: 200px; margin: 0 auto;">
     <a href="https://www.???/">
-        <img src="img/placeholder.jpg" alt="Jeff Chun-Fung Lo" style="width: 100%;"/>
+        <img src="/img/placeholder.jpg" alt="Jeff Chun-Fung Lo" style="width: 100%;"/>
         <h4>Jeff Chun-Fung Lo</h4>
     </a>
     <p>Ph.D., The Hong Kong University of Science and Technology (2006).</p></em> 
@@ -102,7 +102,7 @@ subtitle:
 
 <div style="width: 100%; max-width: 200px; margin: 0 auto;">
     <a href="https://www.???/">
-        <img src="img/placeholder.jpg" alt="Yongsheng Xu" style="width: 100%;"/>
+        <img src="/img/placeholder.jpg" alt="Yongsheng Xu" style="width: 100%;"/>
         <h4>Yongsheng Xu</h4>
     </a>
     <p>Ph.D., University of Rhode Island (2006).</p></em> 
@@ -111,7 +111,7 @@ subtitle:
 
 <div style="width: 100%; max-width: 200px; margin: 0 auto;">
     <a href="https://www.???/">
-        <img src="img/placeholder.jpg" alt="Xuemei Wang" style="width: 100%;"/>
+        <img src="/img/placeholder.jpg" alt="Xuemei Wang" style="width: 100%;"/>
         <h4>Xuemei Wang</h4>
     </a>
     <p>Ph.D., Chinese Academy of Sciences (1999).</p></em> 
@@ -121,7 +121,7 @@ subtitle:
 
 <div style="width: 100%; max-width: 200px; margin: 0 auto;">
     <a href="https://www.???/">
-        <img src="img/placeholder.jpg" alt="Yiwen Xu" style="width: 100%;"/>
+        <img src="/img/placeholder.jpg" alt="Yiwen Xu" style="width: 100%;"/>
         <h4>Yiwen Xu</h4>
     </a>
     <p>Ph.D., ??? University (Year).</p></em> 
@@ -130,7 +130,7 @@ subtitle:
 
 <div style="width: 100%; max-width: 200px; margin: 0 auto;">
     <a href="https://www.???/">
-        <img src="img/placeholder.jpg" alt="Dr. Jiangfeng Wei" style="width: 100%;"/>
+        <img src="/img/placeholder.jpg" alt="Dr. Jiangfeng Wei" style="width: 100%;"/>
         <h4>Dr. Jiangfeng Wei</h4>
     </a>
     <p>Ph.D., Georgia Institute of Technology (2007).</p></em> 
@@ -139,7 +139,7 @@ subtitle:
 
 <div style="width: 100%; max-width: 200px; margin: 0 auto;">
     <a href="https://www.???/">
-        <img src="img/placeholder.jpg" alt="Dr. Long Zhao" style="width: 100%;"/>
+        <img src="/img/placeholder.jpg" alt="Dr. Long Zhao" style="width: 100%;"/>
         <h4>Dr. Long Zhao</h4>
     </a>
     <p>Ph.D., Chinese Academy of Sciences (2013).</p></em> 
