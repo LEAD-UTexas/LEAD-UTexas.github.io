@@ -20,16 +20,12 @@ subtitle:
         <img src="/people/images/Liang.jpg" alt="Dr. Zong-Liang Yang" style="width: 100%;"/>
         <h4>Dr. Zong-Liang Yang</h4>
     </a>
-    <p>Role
-    <em>Specialization???</em></p>
 </div>
 
 </div>
 
 
 <br><!-- <br>-->
-
-
 
 <h2>Postdocs</h2>
 <hr>
@@ -228,10 +224,10 @@ subtitle:
 
 <br><!-- <br>-->
 
-
+<!--
 <h2>Research staffs</h2>
 <hr>
-
+-->
 
 <br><!-- <br>-->
 
@@ -239,7 +235,7 @@ subtitle:
 <h2>Group Photos</h2>
 <hr>
 <img src="/people/images/Yang%2C%20Ana%20Barros%20et%20al.%20lunch%2020240920%20UT%20Austin%2C%20Photo%20taken%20by%20Jingxin%20Liang.jpg" width="800" align="center" hspace="20" target="_blank" title="LEAD-GroupPhoto" />
-Yang, Ana Barros et al. lunch 20240920 UT Austin, Photo taken by Jingxin Liang
+Dr. Ana Barros et al. and Dr. Yang and some of LEAD Group members, lunch at UT Austin, photo taken by Jingxin Liang at 20240920.
 
 <br>
 <br>
