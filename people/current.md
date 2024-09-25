@@ -17,7 +17,7 @@ subtitle:
 
 <div style="width: 100%; max-width: 200px; margin: 0 auto;">
     <a href="https://lead-utexas.github.io/people/members/Liang/">
-        <img src="/img/placeholder.jpg" alt="Dr. Zong-Liang Yang" style="width: 100%;"/>
+        <img src="/people/images/Liang.jpg" alt="Dr. Zong-Liang Yang" style="width: 100%;"/>
         <h4>Dr. Zong-Liang Yang</h4>
     </a>
 </div>
