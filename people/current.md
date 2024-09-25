@@ -73,8 +73,8 @@ subtitle:
      <img src="/people/images/Manmeet.jpg" alt="Manmeet" style="width: 100%;"/>
 <h4>Manmeet Singh</h4>
 </a>
-     <p>Distinguished Postdoc starting in 2024</p>
-     <p><em>Climate data science</em></p>
+     <p>Distinguished Postdoc starting in 2024
+     <em>Climate data science</em></p>
 </div>
 
 </div>
