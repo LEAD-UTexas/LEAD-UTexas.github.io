@@ -131,14 +131,14 @@ subtitle:
 
   <div style="width: 100%; max-width: 200px; margin: 0 auto;">
     <a href="https://lead-utexas.github.io/people/members/Liang/">
-      <img src="/img/placeholder.jpg" alt="Chieh-Chen Lee" style="width: 100%;"/>
+      <img src="/people/images/Chieh-Chen.jpg" alt="Chieh-Chen Lee" style="width: 100%;"/>
       <h4>Chieh-Chen Lee</h4>
     </a>
     <p>PhD starting in 2022
     <em>Specialization???</em></p>
   </div>
 
-  <div style="width: 100%; max-width: 200px; margin: 0 auto;">
+<!--  <div style="width: 100%; max-width: 200px; margin: 0 auto;">
     <a href="https://lead-utexas.github.io/people/members/Liang/">
       <img src="/img/placeholder.jpg" alt="Sasanka Talukdar" style="width: 100%;"/>
       <h4>Sasanka Talukdar</h4>
@@ -146,6 +146,7 @@ subtitle:
     <p>PhD starting in 2022, co-supervised by Dr.Yang
     <em>Specialization???</em></p>
   </div>
+-->
 
   <div style="width: 100%; max-width: 200px; margin: 0 auto;">
     <a href="https://scholar.google.com/citations?user=ENiuR10AAAAJ&hl=en">
@@ -162,7 +163,7 @@ subtitle:
       <h4>Koutian Wu</h4>
     </a>
     <p>PhD starting in 2024
-    <em>land surface model development</em></p>
+    <em>Land surface model development</em></p>
   </div>
   
 <!--  <div style="width: 100%; max-width: 200px; margin: 0 auto;">
