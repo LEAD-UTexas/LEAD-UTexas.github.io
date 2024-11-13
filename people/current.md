@@ -39,8 +39,8 @@ subtitle:
 <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; text-align: center;">
 
 <div style="width: 100%; max-width: 200px; margin: 0 auto;">
-<a href="https://lead-utexas.github.io/people/members/NaveenSudharsan/">
-     <img src="/img/placeholder.jpg" alt="Naveen Sudharsan" style="width: 100%;"/>
+<a href="https://www.jsg.utexas.edu/researcher/naveen_sudharsan/">
+     <img src="/people/images/naveen_sudharsan.jpg" alt="Naveen Sudharsan" style="width: 100%;"/>
     <h4>Dr. Naveen Sudharsan</h4>
 </a>
     <p>Postdoc
@@ -59,14 +59,13 @@ subtitle:
 <!--
 <div style="width: 100%; max-width: 200px; margin: 0 auto;">
 <a href="https://lead-utexas.github.io/people/members/ShyamaMohanty/">
-     <img src="/img/placeholder.jpg" alt="Shyama Mohanty" style="width: 100%;"/>
+     <img src="/people/images/placeholder.jpg" alt="Shyama Mohanty" style="width: 100%;"/>
     <h4>Dr. Shyama Mohanty</h4>
 </a>
     <p>Postdoc starting in 2024
     <em>Specialization???</em></p>
 </div>
 ------>
-
 
 <div style="width: 100%; max-width: 200px; margin: 0 auto;">
 <a href="https://manmeet3591.github.io/">
@@ -84,8 +83,8 @@ subtitle:
 <hr><div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; text-align: center;">
 
   <div style="width: 100%; max-width: 200px; margin: 0 auto;">
-    <a href="https://lead-utexas.github.io/people/members/Liang/">
-      <img src="/img/placeholder.jpg" alt="Harsh" style="width: 100%;"/>
+    <a href="https://www.researchgate.net/profile/Harsh-Kamath">
+      <img src="/people/images/HKamath.jpg" alt="Harsh" style="width: 100%;"/>
       <h4>Harsh Kamath</h4>
     </a>
     <p>PhD starting in 2021, co-supervised by Dr.Yang
@@ -94,7 +93,7 @@ subtitle:
   
   <div style="width: 100%; max-width: 200px; margin: 0 auto;">
     <a href="https://lead-utexas.github.io/people/members/Liang/">
-      <img src="/img/placeholder.jpg" alt="Mahmoud Mbarak" style="width: 100%;"/>
+      <img src="/people/images/placeholder.jpg" alt="Mahmoud Mbarak" style="width: 100%;"/>
       <h4>Mahmoud Mbarak</h4>
     </a>
     <p>PhD starting in 2021, co-supervised by Dr.Marc Hesse
@@ -112,7 +111,7 @@ subtitle:
 
 <!--  <div style="width: 100%; max-width: 200px; margin: 0 auto;">
     <a href="https://lead-utexas.github.io/people/members/Liang/">
-      <img src="/img/placeholder.jpg" alt="Caleb Earl Adams" style="width: 100%;"/>
+      <img src="/people/images/placeholder.jpg" alt="Caleb Earl Adams" style="width: 100%;"/>
       <h4>Caleb Earl Adams</h4>
     </a>
     <p>PhD starting in 2022
@@ -140,7 +139,7 @@ subtitle:
 
 <!--  <div style="width: 100%; max-width: 200px; margin: 0 auto;">
     <a href="https://lead-utexas.github.io/people/members/Liang/">
-      <img src="/img/placeholder.jpg" alt="Sasanka Talukdar" style="width: 100%;"/>
+      <img src="/people/images/placeholder.jpg" alt="Sasanka Talukdar" style="width: 100%;"/>
       <h4>Sasanka Talukdar</h4>
     </a>
     <p>PhD starting in 2022, co-supervised by Dr.Yang
@@ -168,7 +167,7 @@ subtitle:
   
 <!--  <div style="width: 100%; max-width: 200px; margin: 0 auto;">
     <a href="https://lead-utexas.github.io/people/members/Liang/">
-      <img src="/img/placeholder.jpg" alt="Rakshith" style="width: 100%;"/>
+      <img src="/people/images/placeholder.jpg" alt="Rakshith" style="width: 100%;"/>
       <h4>Rakshith</h4>
     </a>
     <p>PhD starting in 2024
@@ -179,7 +178,7 @@ subtitle:
 <!--
   <div style="width: 100%; max-width: 200px; margin: 0 auto;">
     <a href="https://lead-utexas.github.io/people/members/Liang/">
-      <img src="/img/placeholder.jpg" alt="Prudhvi" style="width: 100%;"/>
+      <img src="/people/images/placeholder.jpg" alt="Prudhvi" style="width: 100%;"/>
       <h4>Prudhvi</h4>
     </a>
     <p>Master since 2024
@@ -196,7 +195,7 @@ subtitle:
 <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; text-align: center;">
      <div style="width: 100%; max-width: 200px; margin: 0 auto;">
          <a href="https://lead-utexas.github.io/people/members/Liang/">
-           <img src="/img/placeholder.jpg" alt="Jingxin Liang" style="width: 100%;"/>
+           <img src="/people/images/placeholder.jpg" alt="Jingxin Liang" style="width: 100%;"/>
            <h4>Jingxin Liang</h4>
          </a>
          <p>Undergrad starting in 2021</p>
@@ -204,7 +203,7 @@ subtitle:
      </div>
      <div style="width: 100%; max-width: 200px; margin: 0 auto;">
          <a href="https://lead-utexas.github.io/people/members/Liang/">
-           <img src="/img/placeholder.jpg" alt="Raymond Luong" style="width: 100%;"/>
+           <img src="/people/images/placeholder.jpg" alt="Raymond Luong" style="width: 100%;"/>
            <h4>Raymond Luong</h4>
          </a>
          <p>Undergrad starting in 2023?</p>
@@ -212,7 +211,7 @@ subtitle:
      </div>
      <div style="width: 100%; max-width: 200px; margin: 0 auto;">
          <a href="https://lead-utexas.github.io/people/members/Liang/">
-           <img src="/img/placeholder.jpg" alt="Danny Xu" style="width: 100%;"/>
+           <img src="/people/images/placeholder.jpg" alt="Danny Xu" style="width: 100%;"/>
            <h4>Danny Xu</h4>
          </a>
          <p>Undergrad starting in 20??</p>
@@ -220,7 +219,7 @@ subtitle:
      </div>     
      <div style="width: 100%; max-width: 200px; margin: 0 auto;">
          <a href="https://lead-utexas.github.io/people/members/Liang/">
-           <img src="/img/placeholder.jpg" alt="Isa Kazen" style="width: 100%;"/>
+           <img src="/people/images/placeholder.jpg" alt="Isa Kazen" style="width: 100%;"/>
            <h4>Isa Kazen</h4>
          </a>
          <p>Undergrad starting in 20??</p>
