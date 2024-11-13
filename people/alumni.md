@@ -75,8 +75,8 @@ subtitle:
 </div>
 
 <div style="width: 100%; max-width: 200px; margin: 0 auto;">
-    <a href="https://www.???/">
-        <img src="/people/images/placeholder.jpg" alt="Guo-Yue Niu" style="width: 100%;"/>
+    <a href="https://scholar.google.com/citations?user=Vxr_xRwAAAAJ&hl=en">
+        <img src="https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=Vxr_xRwAAAAJ&citpid=15" alt="Guo-Yue Niu" style="width: 100%;"/>
         <h4>Guo-Yue Niu</h4>
     </a>
     <p>Ph.D., Chinese Academy of Sciences, Beijing, China (1996).</p>
@@ -130,8 +130,8 @@ subtitle:
 </div>
 
 <div style="width: 100%; max-width: 200px; margin: 0 auto;">
-    <a href="https://www.???/">
-        <img src="/people/images/placeholder.jpg" alt="Dr. Jiangfeng Wei" style="width: 100%;"/>
+    <a href="https://scholar.google.com/citations?user=94gX4k0AAAAJ&hl=en">
+        <img src="https://www.researchgate.net/profile/Jiangfeng-Wei" alt="Dr. Jiangfeng Wei" style="width: 100%;"/>
         <h4>Dr. Jiangfeng Wei</h4>
     </a>
     <p>Ph.D., Georgia Institute of Technology (2007).</p>
@@ -139,8 +139,8 @@ subtitle:
 </div>
 
 <div style="width: 100%; max-width: 200px; margin: 0 auto;">
-    <a href="https://www.???/">
-        <img src="/people/images/placeholder.jpg" alt="Dr. Long Zhao" style="width: 100%;"/>
+    <a href="https://scholar.google.com/citations?user=NZ_q89cAAAAJ&hl=en">
+        <img src="https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=NZ_q89cAAAAJ&citpid=4" alt="Dr. Long Zhao" style="width: 100%;"/>
         <h4>Dr. Long Zhao</h4>
     </a>
     <p>Ph.D., Chinese Academy of Sciences (2013).</p>
@@ -160,7 +160,7 @@ subtitle:
 	<a href="mailto:xcai???@utexas.edu" target="_top" title="email" style="margin-right: 8px">
 		<img src="/people/images/email-icon.png" width="auto" height="15" alt="email"/>
 	</a>
-	<a href="https://www.jsg.utexas.edu/student/xitian_cai/" target="_blank" title="Website" style="margin-right: 8px">
+	<a href="https://scholar.google.com/citations?user=xojt6IgAAAAJ&hl=en" target="_blank" title="Website" style="margin-right: 8px">
 		<img src="/people/images/website-icon.png" width="auto" height="20" alt="website"/>
 	</a>
 </div>
