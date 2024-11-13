@@ -92,7 +92,7 @@ subtitle:
   </div>
   
   <div style="width: 100%; max-width: 200px; margin: 0 auto;">
-    <a href="https://lead-utexas.github.io/people/members/Liang/">
+    <a href="https://www.jsg.utexas.edu/student/mahmoud_mbarak/">
       <img src="/people/images/placeholder.jpg" alt="Mahmoud Mbarak" style="width: 100%;"/>
       <h4>Mahmoud Mbarak</h4>
     </a>
