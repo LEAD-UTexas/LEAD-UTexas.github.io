@@ -22,7 +22,7 @@ subtitle:
 
  <div style="width: 100%; max-width: 200px; margin: 0 auto;">
     <a href="https://www.???/">
-        <img src="/img/placeholder.jpg" alt="Hua Su" style="width: 100%;"/>
+        <img src="/people/images/placeholder.jpg" alt="Hua Su" style="width: 100%;"/>
         <h4>Hua Su</h4>
     </a>
     <p>Ph.D., University of Texas at Austin (2009).</p>
@@ -30,8 +30,8 @@ subtitle:
 </div>
 
 <div style="width: 100%; max-width: 200px; margin: 0 auto;">
-    <a href="https://www.???/">
-        <img src="/img/placeholder.jpg" alt="Mingxing Li" style="width: 100%;"/>
+    <a href="http://www.tea.ac.cn/english/about/staffs/201507/t20150701_626362.html">
+        <img src="http://www.tea.ac.cn/english/about/staffs/201507/W020210319369971536435.jpg" alt="Mingxing Li" style="width: 100%;"/>
         <h4>Mingxing Li</h4>
     </a>
     <p>Ph.D., Chinese Academy of Sciences (2010).</p>
@@ -40,7 +40,7 @@ subtitle:
 
 <div style="width: 100%; max-width: 200px; margin: 0 auto;">
     <a href="https://www.???/">
-        <img src="/img/placeholder.jpg" alt="Cédric H. David" style="width: 100%;"/>
+        <img src="/people/images/placeholder.jpg" alt="Cédric H. David" style="width: 100%;"/>
         <h4>Cédric H. David</h4>
     </a>
     <p>Ph.D., University of Texas at Austin (2009).</p>
@@ -49,7 +49,7 @@ subtitle:
 
 <div style="width: 100%; max-width: 200px; margin: 0 auto;">
     <a href="https://www.???/">
-        <img src="/img/placeholder.jpg" alt="Zhongfeng Xu" style="width: 100%;"/>
+        <img src="/people/images/placeholder.jpg" alt="Zhongfeng Xu" style="width: 100%;"/>
         <h4>Zhongfeng Xu</h4>
     </a>
     <p>Ph.D., Nanjing University (2008).</p>
@@ -58,7 +58,7 @@ subtitle:
 
 <div style="width: 100%; max-width: 200px; margin: 0 auto;">
     <a href="https://www.???/">
-        <img src="/img/placeholder.jpg" alt="Ying Han" style="width: 100%;"/>
+        <img src="/people/images/placeholder.jpg" alt="Ying Han" style="width: 100%;"/>
         <h4>Ying Han</h4>
     </a>
     <p>Ph.D., Nanjing University (2008).</p>
@@ -67,7 +67,7 @@ subtitle:
 
 <div style="width: 100%; max-width: 200px; margin: 0 auto;">
     <a href="https://www.???/">
-        <img src="/img/placeholder.jpg" alt="Seungbum (Bryan) Hong" style="width: 100%;"/>
+        <img src="/people/images/placeholder.jpg" alt="Seungbum (Bryan) Hong" style="width: 100%;"/>
         <h4>Seungbum (Bryan) Hong</h4>
     </a>
     <p>Ph.D., University of South Carolina, Columbia, South Carolina (2008).</p>
@@ -76,7 +76,7 @@ subtitle:
 
 <div style="width: 100%; max-width: 200px; margin: 0 auto;">
     <a href="https://www.???/">
-        <img src="/img/placeholder.jpg" alt="Guo-Yue Niu" style="width: 100%;"/>
+        <img src="/people/images/placeholder.jpg" alt="Guo-Yue Niu" style="width: 100%;"/>
         <h4>Guo-Yue Niu</h4>
     </a>
     <p>Ph.D., Chinese Academy of Sciences, Beijing, China (1996).</p>
@@ -85,7 +85,7 @@ subtitle:
 
 <div style="width: 100%; max-width: 200px; margin: 0 auto;">
     <a href="https://www.???/">
-        <img src="/img/placeholder.jpg" alt="Jessica B. T. Rasmussen" style="width: 100%;"/>
+        <img src="/people/images/placeholder.jpg" alt="Jessica B. T. Rasmussen" style="width: 100%;"/>
         <h4>Jessica B. T. Rasmussen</h4>
     </a>
     <p>Ph.D., The University of New Mexico, Albuquerque, New Mexico (2006).</p>
@@ -94,7 +94,7 @@ subtitle:
 
 <div style="width: 100%; max-width: 200px; margin: 0 auto;">
     <a href="https://www.???/">
-        <img src="/img/placeholder.jpg" alt="Jeff Chun-Fung Lo" style="width: 100%;"/>
+        <img src="/people/images/placeholder.jpg" alt="Jeff Chun-Fung Lo" style="width: 100%;"/>
         <h4>Jeff Chun-Fung Lo</h4>
     </a>
     <p>Ph.D., The Hong Kong University of Science and Technology (2006).</p>
@@ -103,7 +103,7 @@ subtitle:
 
 <div style="width: 100%; max-width: 200px; margin: 0 auto;">
     <a href="https://www.???/">
-        <img src="/img/placeholder.jpg" alt="Yongsheng Xu" style="width: 100%;"/>
+        <img src="/people/images/placeholder.jpg" alt="Yongsheng Xu" style="width: 100%;"/>
         <h4>Yongsheng Xu</h4>
     </a>
     <p>Ph.D., University of Rhode Island (2006).</p>
@@ -112,7 +112,7 @@ subtitle:
 
 <div style="width: 100%; max-width: 200px; margin: 0 auto;">
     <a href="https://www.???/">
-        <img src="/img/placeholder.jpg" alt="Xuemei Wang" style="width: 100%;"/>
+        <img src="/people/images/placeholder.jpg" alt="Xuemei Wang" style="width: 100%;"/>
         <h4>Xuemei Wang</h4>
     </a>
     <p>Ph.D., Chinese Academy of Sciences (1999).</p>
@@ -122,7 +122,7 @@ subtitle:
 
 <div style="width: 100%; max-width: 200px; margin: 0 auto;">
     <a href="https://www.???/">
-        <img src="/img/placeholder.jpg" alt="Yiwen Xu" style="width: 100%;"/>
+        <img src="/people/images/placeholder.jpg" alt="Yiwen Xu" style="width: 100%;"/>
         <h4>Yiwen Xu</h4>
     </a>
     <p>Ph.D., ??? University (Year).</p>
@@ -131,7 +131,7 @@ subtitle:
 
 <div style="width: 100%; max-width: 200px; margin: 0 auto;">
     <a href="https://www.???/">
-        <img src="/img/placeholder.jpg" alt="Dr. Jiangfeng Wei" style="width: 100%;"/>
+        <img src="/people/images/placeholder.jpg" alt="Dr. Jiangfeng Wei" style="width: 100%;"/>
         <h4>Dr. Jiangfeng Wei</h4>
     </a>
     <p>Ph.D., Georgia Institute of Technology (2007).</p>
@@ -140,7 +140,7 @@ subtitle:
 
 <div style="width: 100%; max-width: 200px; margin: 0 auto;">
     <a href="https://www.???/">
-        <img src="/img/placeholder.jpg" alt="Dr. Long Zhao" style="width: 100%;"/>
+        <img src="/people/images/placeholder.jpg" alt="Dr. Long Zhao" style="width: 100%;"/>
         <h4>Dr. Long Zhao</h4>
     </a>
     <p>Ph.D., Chinese Academy of Sciences (2013).</p>
@@ -158,10 +158,10 @@ subtitle:
 </div>
 <div style="font-size: 15px !important; color: #555; float:left;">
 	<a href="mailto:xcai???@utexas.edu" target="_top" title="email" style="margin-right: 8px">
-		<img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
+		<img src="/people/images/email-icon.png" width="auto" height="15" alt="email"/>
 	</a>
 	<a href="https://www.jsg.utexas.edu/student/xitian_cai/" target="_blank" title="Website" style="margin-right: 8px">
-		<img src="/img/website-icon.png" width="auto" height="20" alt="website"/>
+		<img src="/people/images/website-icon.png" width="auto" height="20" alt="website"/>
 	</a>
 </div>
 <div style="clear:both;"></div>
@@ -173,10 +173,10 @@ subtitle:
 </div>
 <div style="font-size: 15px !important; color: #555; float:left;">
 	<a href="mailto:mhalubok???@utexas.edu" target="_top" title="email" style="margin-right: 8px">
-		<img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
+		<img src="/people/images/email-icon.png" width="auto" height="15" alt="email"/>
 	</a>
 	<a href="https://sites.google.com/a/utexas.edu/maryia_halubok/" target="_blank" title="Website" style="margin-right: 8px">
-		<img src="/img/website-icon.png" width="auto" height="20" alt="website"/>
+		<img src="/people/images/website-icon.png" width="auto" height="20" alt="website"/>
 	</a>
 </div>
 <div style="clear:both;"></div>
@@ -188,10 +188,10 @@ subtitle:
 </div>
 <div style="font-size: 15px !important; color: #555; float:left;">
 	<a href="mailto:ykwon???@utexas.edu" target="_top" title="email" style="margin-right: 8px">
-		<img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
+		<img src="/people/images/email-icon.png" width="auto" height="15" alt="email"/>
 	</a>
 	<a href="https://sites.google.com/a/utexas.edu/yonghwan_kwon/home" target="_blank" title="Website" style="margin-right: 8px">
-		<img src="/img/website-icon.png" width="auto" height="20" alt="website"/>
+		<img src="/people/images/website-icon.png" width="auto" height="20" alt="website"/>
 	</a>
 </div>
 <div style="clear:both;"></div>
@@ -203,10 +203,10 @@ subtitle:
 </div>
 <div style="font-size: 15px !important; color: #555; float:left;">
 	<a href="mailto:qjin???@utexas.edu" target="_top" title="email" style="margin-right: 8px">
-		<img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
+		<img src="/people/images/email-icon.png" width="auto" height="15" alt="email"/>
 	</a>
 	<a href="https://sites.google.com/a/utexas.edu/qinjian-jin/" target="_blank" title="Website" style="margin-right: 8px">
-		<img src="/img/website-icon.png" width="auto" height="20" alt="website"/>
+		<img src="/people/images/website-icon.png" width="auto" height="20" alt="website"/>
 	</a>
 </div>
 <div style="clear:both;"></div>
@@ -218,10 +218,10 @@ subtitle:
 </div>
 <div style="font-size: 15px !important; color: #555; float:left;">
 	<a href="mailto:plin???@utexas.edu" target="_top" title="email" style="margin-right: 8px">
-		<img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
+		<img src="/people/images/email-icon.png" width="auto" height="15" alt="email"/>
 	</a>
 	<a href="https://sites.google.com/site/peironglinlin/home" target="_blank" title="Website" style="margin-right: 8px">
-		<img src="/img/website-icon.png" width="auto" height="20" alt="website"/>
+		<img src="/people/images/website-icon.png" width="auto" height="20" alt="website"/>
 	</a>
 </div>
 <div style="clear:both;"></div>
@@ -233,10 +233,10 @@ subtitle:
 </div>
 <div style="font-size: 15px !important; color: #555; float:left;">
 	<a href="mailto:xling???@utexas.edu" target="_top" title="email" style="margin-right: 8px">
-		<img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
+		<img src="/people/images/email-icon.png" width="auto" height="15" alt="email"/>
 	</a>
 	<a href="https://sites.google.com/site/lingxiaolu0908/home" target="_blank" title="Website" style="margin-right: 8px">
-		<img src="/img/website-icon.png" width="auto" height="20" alt="website"/>
+		<img src="/people/images/website-icon.png" width="auto" height="20" alt="website"/>
 	</a>
 </div>
 <div style="clear:both;"></div>
@@ -248,10 +248,10 @@ subtitle:
 </div>
 <div style="font-size: 15px !important; color: #555; float:left;">
 	<a href="mailto:sparajuli???@utexas.edu" target="_top" title="email" style="margin-right: 8px">
-		<img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
+		<img src="/people/images/email-icon.png" width="auto" height="15" alt="email"/>
 	</a>
 	<a href="http://parajulisagar.wordpress.com/" target="_blank" title="Website" style="margin-right: 8px">
-		<img src="/img/website-icon.png" width="auto" height="20" alt="website"/>
+		<img src="/people/images/website-icon.png" width="auto" height="20" alt="website"/>
 	</a>
 </div>
 <div style="clear:both;"></div>
@@ -263,10 +263,10 @@ subtitle:
 </div>
 <div style="font-size: 15px !important; color: #555; float:left;">
 	<a href="mailto:aresovsky???@utexas.edu" target="_top" title="email" style="margin-right: 8px">
-		<img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
+		<img src="/people/images/email-icon.png" width="auto" height="15" alt="email"/>
 	</a>
 	<a href="https://sites.google.com/a/utexas.edu/alex-resovsky/home" target="_blank" title="Website" style="margin-right: 8px">
-		<img src="/img/website-icon.png" width="auto" height="20" alt="website"/>
+		<img src="/people/images/website-icon.png" width="auto" height="20" alt="website"/>
 	</a>
 </div>
 <div style="clear:both;"></div>
@@ -278,10 +278,10 @@ subtitle:
 </div>
 <div style="font-size: 15px !important; color: #555; float:left;">
 	<a href="mailto:atavakoly???@utexas.edu" target="_top" title="email" style="margin-right: 8px">
-		<img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
+		<img src="/people/images/email-icon.png" width="auto" height="15" alt="email"/>
 	</a>
 	<a href="https://sites.google.com/a/utexas.edu/atavakoly/" target="_blank" title="Website" style="margin-right: 8px">
-		<img src="/img/website-icon.png" width="auto" height="20" alt="website"/>
+		<img src="/people/images/website-icon.png" width="auto" height="20" alt="website"/>
 	</a>
 </div>
 <div style="clear:both;"></div>
@@ -293,10 +293,10 @@ subtitle:
 </div>
 <div style="font-size: 15px !important; color: #555; float:left;">
 	<a href="mailto:yzhang???@utexas.edu" target="_top" title="email" style="margin-right: 8px">
-		<img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
+		<img src="/people/images/email-icon.png" width="auto" height="15" alt="email"/>
 	</a>
 	<a href="https://sites.google.com/a/utexas.edu/yongfei-zhang/home" target="_blank" title="Website" style="margin-right: 8px">
-		<img src="/img/website-icon.png" width="auto" height="20" alt="website"/>
+		<img src="/people/images/website-icon.png" width="auto" height="20" alt="website"/>
 	</a>
 </div>
 <div style="clear:both;"></div>
@@ -308,10 +308,10 @@ subtitle:
 </div>
 <div style="font-size: 15px !important; color: #555; float:left;">
 	<a href="mailto:cdavid???@utexas.edu" target="_top" title="email" style="margin-right: 8px">
-		<img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
+		<img src="/people/images/email-icon.png" width="auto" height="15" alt="email"/>
 	</a>
 	<a href="http://www.ucchm.org/david/rapid.htm" target="_blank" title="Website" style="margin-right: 8px">
-		<img src="/img/website-icon.png" width="auto" height="20" alt="website"/>
+		<img src="/people/images/website-icon.png" width="auto" height="20" alt="website"/>
 	</a>
 </div>
 <div style="clear:both;"></div>
@@ -324,10 +324,10 @@ subtitle:
 </div>
 <div style="font-size: 15px !important; color: #555; float:left;">
 	<a href="mailto:lgulden???@utexas.edu" target="_top" title="email" style="margin-right: 8px">
-		<img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
+		<img src="/people/images/email-icon.png" width="auto" height="15" alt="email"/>
 	</a>
 	<a href="https://webspace.utexas.edu/leg352/www/guldenCV.htm" target="_blank" title="Website" style="margin-right: 8px">
-		<img src="/img/website-icon.png" width="auto" height="20" alt="website"/>
+		<img src="/people/images/website-icon.png" width="auto" height="20" alt="website"/>
 	</a>
 </div>
 <div style="clear:both;"></div>
@@ -340,7 +340,7 @@ subtitle:
 </div>
 <div style="font-size: 15px !important; color: #555; float:left;">
 	<a href="mailto:xjiang???@utexas.edu" target="_top" title="email" style="margin-right: 8px">
-		<img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
+		<img src="/people/images/email-icon.png" width="auto" height="15" alt="email"/>
 	</a>
 </div>
 <div style="clear:both;"></div>
@@ -353,10 +353,10 @@ subtitle:
 </div>
 <div style="font-size: 15px !important; color: #555; float:left;">
 	<a href="mailto:mknebl???@utexas.edu" target="_top" title="email" style="margin-right: 8px">
-		<img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
+		<img src="/people/images/email-icon.png" width="auto" height="15" alt="email"/>
 	</a>
 	<a href="http://www.linkedin.com/profile/view?id=15145663&authType=NAME_SEARCH&authToken=fnPH&locale=en_US&srchid=134316001384407102247&srchindex=2&srchtotal=2&trk=vsrp_people_res_name&trkInfo=VSRPsearchId%3A134316001384407102247%2CVSRPtargetId%3A15145663%2CVSRPcmpt%3Aprimary" target="_blank" title="LinkedIn" style="margin-right: 8px">
-		<img src="/img/linkedin-icon.png" width="auto" height="20" alt="LinkedIn"/>
+		<img src="/people/images/linkedin-icon.png" width="auto" height="20" alt="LinkedIn"/>
 	</a>
 </div>
 <div style="clear:both;"></div>
@@ -369,10 +369,10 @@ subtitle:
 </div>
 <div style="font-size: 15px !important; color: #555; float:left;">
 	<a href="mailto:lmeyer???@utexas.edu" target="_top" title="email" style="margin-right: 8px">
-		<img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
+		<img src="/people/images/email-icon.png" width="auto" height="15" alt="email"/>
 	</a>
 	<a href="http://www.linkedin.com/profile/view?id=81956242&locale=en_US&trk=tyah&trkInfo=tas%3ALisa%20%2Cidx%3A3-1-3" target="_blank" title="LinkedIn" style="margin-right: 8px">
-		<img src="/img/linkedin-icon.png" width="auto" height="20" alt="LinkedIn"/>
+		<img src="/people/images/linkedin-icon.png" width="auto" height="20" alt="LinkedIn"/>
 	</a>
 </div>
 <div style="clear:both;"></div>
@@ -385,10 +385,10 @@ subtitle:
 </div>
 <div style="font-size: 15px !important; color: #555; float:left;">
 	<a href="mailto:erosero???@utexas.edu" target="_top" title="email" style="margin-right: 8px">
-		<img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
+		<img src="/people/images/email-icon.png" width="auto" height="15" alt="email"/>
 	</a>
 	<a href="https://webspace.utexas.edu/err449/erosero.html" target="_blank" title="Website" style="margin-right: 8px">
-		<img src="/img/website-icon.png" width="auto" height="20" alt="website"/>
+		<img src="/people/images/website-icon.png" width="auto" height="20" alt="website"/>
 	</a>
 </div>
 <div style="clear:both;"></div>
@@ -401,7 +401,7 @@ subtitle:
 </div>
 <div style="font-size: 15px !important; color: #555; float:left;">
 	<a href="mailto:mshi???@utexas.edu" target="_top" title="email" style="margin-right: 8px">
-		<img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
+		<img src="/people/images/email-icon.png" width="auto" height="15" alt="email"/>
 	</a>
 </div>
 <div style="clear:both;"></div>
@@ -415,10 +415,10 @@ subtitle:
 </div>
 <div style="font-size: 15px !important; color: #555; float:left;">
 	<a href="mailto:hsu???@utexas.edu" target="_top" title="email" style="margin-right: 8px">
-		<img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
+		<img src="/people/images/email-icon.png" width="auto" height="15" alt="email"/>
 	</a>
 	<a href="https://www.jsg.utexas.edu/researcher/hua_su/" target="_blank" title="Website" style="margin-right: 8px">
-		<img src="/img/website-icon.png" width="auto" height="20" alt="website"/>
+		<img src="/people/images/website-icon.png" width="auto" height="20" alt="website"/>
 	</a>
 </div>
 <div style="clear:both;"></div>
@@ -431,7 +431,7 @@ subtitle:
 </div>
 <div style="font-size: 15px !important; color: #555; float:left;">
 	<a href="mailto:qzeng???@utexas.edu" target="_top" title="email" style="margin-right: 8px">
-		<img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
+		<img src="/people/images/email-icon.png" width="auto" height="15" alt="email"/>
 	</a>
 </div>
 <div style="clear:both;"></div>
@@ -444,7 +444,7 @@ subtitle:
 </div>
 <div style="font-size: 15px !important; color: #555; float:left;">
 	<a href="mailto:gzhang???@utexas.edu" target="_top" title="email" style="margin-right: 8px">
-		<img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
+		<img src="/people/images/email-icon.png" width="auto" height="15" alt="email"/>
 	</a>
 </div>
 <div style="clear:both;"></div>
@@ -456,7 +456,7 @@ subtitle:
 </div>
 <div style="font-size: 15px !important; color: #555; float:left;">
 	<a href="mailto:hkim???@utexas.edu" target="_top" title="email" style="margin-right: 8px">
-		<img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
+		<img src="/people/images/email-icon.png" width="auto" height="15" alt="email"/>
 	</a>
 </div>
 <div style="clear:both;"></div>
@@ -468,7 +468,7 @@ subtitle:
 </div>
 <div style="font-size: 15px !important; color: #555; float:left;">
 	<a href="mailto:bwagman???@utexas.edu" target="_top" title="email" style="margin-right: 8px">
-		<img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
+		<img src="/people/images/email-icon.png" width="auto" height="15" alt="email"/>
 	</a>
 </div>
 <div style="clear:both;"></div>
@@ -480,7 +480,7 @@ subtitle:
 </div>
 <div style="font-size: 15px !important; color: #555; float:left;">
 	<a href="mailto:yxue???@utexas.edu" target="_top" title="email" style="margin-right: 8px">
-		<img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
+		<img src="/people/images/email-icon.png" width="auto" height="15" alt="email"/>
 	</a>
 </div>
 <div style="clear:both;"></div>
@@ -492,7 +492,7 @@ subtitle:
 </div>
 <div style="font-size: 15px !important; color: #555; float:left;">
 	<a href="mailto:abarr???@utexas.edu" target="_top" title="email" style="margin-right: 8px">
-		<img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
+		<img src="/people/images/email-icon.png" width="auto" height="15" alt="email"/>
 	</a>
 </div>
 <div style="clear:both;"></div>
@@ -504,7 +504,7 @@ subtitle:
 </div>
 <div style="font-size: 15px !important; color: #555; float:left;">
 	<a href="mailto:sdoyle???@utexas.edu" target="_top" title="email" style="margin-right: 8px">
-		<img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
+		<img src="/people/images/email-icon.png" width="auto" height="15" alt="email"/>
 	</a>
 </div>
 <div style="clear:both;"></div>
@@ -515,7 +515,7 @@ subtitle:
 </div>
 <div style="font-size: 15px !important; color: #555; float:left;">
 	<a href="mailto:jkinney???@utexas.edu" target="_top" title="email" style="margin-right: 8px">
-		<img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
+		<img src="/people/images/email-icon.png" width="auto" height="15" alt="email"/>
 	</a>
 </div>
 <div style="clear:both;"></div>
@@ -527,7 +527,7 @@ subtitle:
 </div>
 <div style="font-size: 15px !important; color: #555; float:left;">
 	<a href="mailto:vvarada???@utexas.edu" target="_top" title="email" style="margin-right: 8px">
-		<img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
+		<img src="/people/images/email-icon.png" width="auto" height="15" alt="email"/>
 	</a>
 </div>
 <div style="clear:both;"></div>
@@ -538,7 +538,7 @@ subtitle:
 </div>
 <div style="font-size: 15px !important; color: #555; float:left;">
 	<a href="mailto:lanstead???@utexas.edu" target="_top" title="email" style="margin-right: 8px">
-		<img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
+		<img src="/people/images/email-icon.png" width="auto" height="15" alt="email"/>
 	</a>
 </div>
 <div style="clear:both;"></div>
@@ -554,7 +554,7 @@ subtitle:
 </div>
 <div style="font-size: 15px !important; color: #555; float:left;">
 	<a href="mailto:xguan???@utexas.edu" target="_top" title="email" style="margin-right: 8px">
-		<img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
+		<img src="/people/images/email-icon.png" width="auto" height="15" alt="email"/>
 	</a>
 </div>
 <div style="clear:both;"></div>
@@ -566,7 +566,7 @@ subtitle:
 </div>
 <div style="font-size: 15px !important; color: #555; float:left;">
 	<a href="mailto:rguo???@utexas.edu" target="_top" title="email" style="margin-right: 8px">
-		<img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
+		<img src="/people/images/email-icon.png" width="auto" height="15" alt="email"/>
 	</a>
 </div>
 <div style="clear:both;"></div>
@@ -578,7 +578,7 @@ subtitle:
 </div>
 <div style="font-size: 15px !important; color: #555; float:left;">
 	<a href="mailto:jxiao???@utexas.edu" target="_top" title="email" style="margin-right: 8px">
-		<img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
+		<img src="/people/images/email-icon.png" width="auto" height="15" alt="email"/>
 	</a>
 </div>
 <div style="clear:both;"></div>
@@ -590,7 +590,7 @@ subtitle:
 </div>
 <div style="font-size: 15px !important; color: #555; float:left;">
 	<a href="mailto:xzhang???@utexas.edu" target="_top" title="email" style="margin-right: 8px">
-		<img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
+		<img src="/people/images/email-icon.png" width="auto" height="15" alt="email"/>
 	</a>
 </div>
 <div style="clear:both;"></div>
@@ -602,7 +602,7 @@ subtitle:
 </div>
 <div style="font-size: 15px !important; color: #555; float:left;">
 	<a href="mailto:jcheng???@utexas.edu" target="_top" title="email" style="margin-right: 8px">
-		<img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
+		<img src="/people/images/email-icon.png" width="auto" height="15" alt="email"/>
 	</a>
 </div>
 <div style="clear:both;"></div>
@@ -614,7 +614,7 @@ subtitle:
 </div>
 <div style="font-size: 15px !important; color: #555; float:left;">
 	<a href="mailto:jji???@utexas.edu" target="_top" title="email" style="margin-right: 8px">
-		<img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
+		<img src="/people/images/email-icon.png" width="auto" height="15" alt="email"/>
 	</a>
 </div>
 <div style="clear:both;"></div>
@@ -625,7 +625,7 @@ subtitle:
 </div>
 <div style="font-size: 15px !important; color: #555; float:left;">
 	<a href="mailto:yxia???@utexas.edu" target="_top" title="email" style="margin-right: 8px">
-		<img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
+		<img src="/people/images/email-icon.png" width="auto" height="15" alt="email"/>
 	</a>
 </div>
 <div style="clear:both;"></div>
@@ -636,10 +636,10 @@ subtitle:
 </div>
 <div style="font-size: 15px !important; color: #555; float:left;">
 	<a href="mailto:zma???@utexas.edu" target="_top" title="email" style="margin-right: 8px">
-		<img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
+		<img src="/people/images/email-icon.png" width="auto" height="15" alt="email"/>
 	</a>
 	<a href="http://mazg.tea.ac.cn/index1.htm" target="_blank" title="Website" style="margin-right: 8px">
-		<img src="/img/website-icon.png" width="auto" height="20" alt="website"/>
+		<img src="/people/images/website-icon.png" width="auto" height="20" alt="website"/>
 	</a>
 </div>
 <div style="clear:both;"></div>
@@ -651,7 +651,7 @@ subtitle:
 </div>
 <div style="font-size: 15px !important; color: #555; float:left;">
 	<a href="mailto:fchen???@utexas.edu" target="_top" title="email" style="margin-right: 8px">
-		<img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
+		<img src="/people/images/email-icon.png" width="auto" height="15" alt="email"/>
 	</a>
 </div>
 <div style="clear:both;"></div>
@@ -663,7 +663,7 @@ subtitle:
 </div>
 <div style="font-size: 15px !important; color: #555; float:left;">
 	<a href="mailto:rdickinson???@utexas.edu" target="_top" title="email" style="margin-right: 8px">
-		<img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
+		<img src="/people/images/email-icon.png" width="auto" height="15" alt="email"/>
 	</a>
 </div>
 <div style="clear:both;"></div>
@@ -675,10 +675,10 @@ subtitle:
 </div>
 <div style="font-size: 15px !important; color: #555; float:left;">
 	<a href="mailto:arobock???@utexas.edu" target="_top" title="email" style="margin-right: 8px">
-		<img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
+		<img src="/people/images/email-icon.png" width="auto" height="15" alt="email"/>
 	</a>
 	<a href="http://www.envsci.rutgers.edu/~robock/" target="_blank" title="Website" style="margin-right: 8px">
-		<img src="/img/website-icon.png" width="auto" height="20" alt="website"/>
+		<img src="/people/images/website-icon.png" width="auto" height="20" alt="website"/>
 	</a>
 </div>
 <div style="clear:both;"></div>
@@ -690,10 +690,10 @@ subtitle:
 </div>
 <div style="font-size: 15px !important; color: #555; float:left;">
 	<a href="mailto:ssorooshian???@utexas.edu" target="_top" title="email" style="margin-right: 8px">
-		<img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
+		<img src="/people/images/email-icon.png" width="auto" height="15" alt="email"/>
 	</a>
 	<a href="http://www.eng.uci.edu/users/soroosh-sorooshian" target="_blank" title="Website" style="margin-right: 8px">
-		<img src="/img/website-icon.png" width="auto" height="20" alt="website"/>
+		<img src="/people/images/website-icon.png" width="auto" height="20" alt="website"/>
 	</a>
 </div>
 <div style="clear:both;"></div>
@@ -704,7 +704,7 @@ subtitle:
 </div>
 <div style="font-size: 15px !important; color: #555; float:left;">
 	<a href="mailto:rdickinson???@utexas.edu" target="_top" title="email" style="margin-right: 8px">
-		<img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
+		<img src="/people/images/email-icon.png" width="auto" height="15" alt="email"/>
 	</a>
 </div>
 <div style="clear:both;"></div>
@@ -716,7 +716,7 @@ subtitle:
 </div>
 <div style="font-size: 15px !important; color: #555; float:left;">
 	<a href="mailto:rlawford???@utexas.edu" target="_top" title="email" style="margin-right: 8px">
-		<img src="/img/email-icon.png" width="auto" height="15" alt="email"/>
+		<img src="/people/images/email-icon.png" width="auto" height="15" alt="email"/>
 	</a>
 </div>
 <div style="clear:both;"></div>
