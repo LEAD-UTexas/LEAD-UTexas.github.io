@@ -35,7 +35,7 @@ navbar-links:
    - Alumni: "people/alumni"
 
   Research:
-   - ?Publications: "research/publications"
+   - Publications: "research/publications"
    - ?Overview: "research/overview"
    - ?Projects: "research/projects"
    - ?Codes: "research/models"
