@@ -2,7 +2,7 @@
 layout: page
 title: Publication
 permalink: /publication/
-subtitle: Eunsang Cho publications and links to papers
+subtitle: LEAD Group publications and links to papers
 ---
 
 <!---prompt: generate citation in html apa 7th format  of this paper:
