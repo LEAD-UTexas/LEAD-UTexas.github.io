@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Publication
-permalink: /publication/
+title: Publications
+permalink: /research/publications/
 subtitle: LEAD Group publications and links to papers
 ---
 
