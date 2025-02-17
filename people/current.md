@@ -233,10 +233,10 @@ subtitle:
 <h2>Group Photos</h2>
 <hr>
 <img src="/people/images/GroupPhotos/Yang%2C%20Ana%20Barros%20et%20al.%20lunch%2020240920%20UT%20Austin%2C%20Photo%20taken%20by%20Jingxin%20Liang.jpg" width="800" align="center" hspace="20" target="_blank" title="LEAD-GroupPhoto" />
-Dr. Ana Barros et al. and Dr. Yang and some of LEAD Group members, lunch at UT Austin, photo taken by Jingxin Liang at 20240920.
+(Photo above) Dr. Ana Barros et al. and Dr. Yang and some of LEAD Group members, lunch at UT Austin, photo taken by Jingxin Liang at 20240920.
 
 <img src="/people/images/GroupPhotos/Yang et al 2025-02-13.jpg" width="800" align="center" hspace="20" target="_blank" title="LEAD-GroupPhoto" />
-Dr. Yang and new visiting student and some of LEAD Group members, lunch at UT Austin, photo taken at 202.
+(Photo above) Dr. Yang and new visiting student and some of LEAD Group members, lunch at UT Austin, photo taken at 202.
 
 Names (left to right) in the photo:	"sasanka@utexas.edu" <sasanka@utmail.utexas.edu>,
 "mbarak@utexas.edu" <mbarak@utmail.utexas.edu>,
