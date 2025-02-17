@@ -238,19 +238,9 @@ subtitle:
 <img src="/people/images/GroupPhotos/Yang et al 2025-02-13.jpg" width="800" align="center" hspace="20" target="_blank" title="LEAD-GroupPhoto" />
 (Photo above) Dr. Yang and new visiting student and some of LEAD Group members, lunch at UT Austin, photo taken at 202.
 
-Names (left to right) in the photo:	"sasanka@utexas.edu" <sasanka@utmail.utexas.edu>,
-"mbarak@utexas.edu" <mbarak@utmail.utexas.edu>,
-"Hu, Chenxi" <chenxi.hu@jsg.utexas.edu>,
-"cclee@utexas.edu" <cclee@utmail.utexas.edu>,
-"jaggeralexander@utexas.edu" <jaggeralexander@utmail.utexas.edu>,
-"Yang, Zong-Liang" <liang@jsg.utexas.edu>,
-Gabe Larouche <gil22@cornell.edu>,
-"shokoufeh.khojeh@utexas.edu" <shokoufeh.khojeh@utmail.utexas.edu>,
-"suixinxin@utexas.edu" <suixinxin@utmail.utexas.edu>,
-"Kamath, Harsh" <harsh.kamath@utexas.edu>,
-"shyamamohanty@utexas.edu" <shyamamohanty@utmail.utexas.edu>,
-"Sudharsan, Naveen" <naveen.sudharsan@jsg.utexas.edu>,
-"manmeet.singh@utexas.edu" <manmeet.singh@utmail.utexas.edu>
+**Figure Caption:**  
+Dr. Yang, visiting student Gabe Larouche, and several LEAD Group members enjoying lunch at UT Austin on February 13, 2025.  
+*(From left to right: Sasanka, Mbarak, Chenxi Hu, Chieh-Chen Lee, Jagger Alexander, Zong-Liang Yang, Gabe Larouche, Shokoufeh Khojeh, Xinxin Sui, Harsh Kamath, Shyama Mohanty, Naveen Sudharsan, and Manmeet Singh.)*
 
 <br>
 <br>
