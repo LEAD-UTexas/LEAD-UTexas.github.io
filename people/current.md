@@ -232,8 +232,25 @@ subtitle:
 
 <h2>Group Photos</h2>
 <hr>
-<img src="/people/images/Yang%2C%20Ana%20Barros%20et%20al.%20lunch%2020240920%20UT%20Austin%2C%20Photo%20taken%20by%20Jingxin%20Liang.jpg" width="800" align="center" hspace="20" target="_blank" title="LEAD-GroupPhoto" />
+<img src="/people/images/GroupPhotos/Yang%2C%20Ana%20Barros%20et%20al.%20lunch%2020240920%20UT%20Austin%2C%20Photo%20taken%20by%20Jingxin%20Liang.jpg" width="800" align="center" hspace="20" target="_blank" title="LEAD-GroupPhoto" />
 Dr. Ana Barros et al. and Dr. Yang and some of LEAD Group members, lunch at UT Austin, photo taken by Jingxin Liang at 20240920.
+
+<img src="/people/images/GroupPhotos/Yang et al 2025-02-13.jpg" width="800" align="center" hspace="20" target="_blank" title="LEAD-GroupPhoto" />
+Dr. Yang and new visiting student and some of LEAD Group members, lunch at UT Austin, photo taken at 202.
+
+Names (left to right) in the photo:	"sasanka@utexas.edu" <sasanka@utmail.utexas.edu>,
+"mbarak@utexas.edu" <mbarak@utmail.utexas.edu>,
+"Hu, Chenxi" <chenxi.hu@jsg.utexas.edu>,
+"cclee@utexas.edu" <cclee@utmail.utexas.edu>,
+"jaggeralexander@utexas.edu" <jaggeralexander@utmail.utexas.edu>,
+"Yang, Zong-Liang" <liang@jsg.utexas.edu>,
+Gabe Larouche <gil22@cornell.edu>,
+"shokoufeh.khojeh@utexas.edu" <shokoufeh.khojeh@utmail.utexas.edu>,
+"suixinxin@utexas.edu" <suixinxin@utmail.utexas.edu>,
+"Kamath, Harsh" <harsh.kamath@utexas.edu>,
+"shyamamohanty@utexas.edu" <shyamamohanty@utmail.utexas.edu>,
+"Sudharsan, Naveen" <naveen.sudharsan@jsg.utexas.edu>,
+"manmeet.singh@utexas.edu" <manmeet.singh@utmail.utexas.edu>
 
 <br>
 <br>
