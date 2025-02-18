@@ -236,10 +236,7 @@ subtitle:
 (Photo above) Dr. Ana Barros et al. and Dr. Yang and some of LEAD Group members, lunch at UT Austin, photo taken by Jingxin Liang at 20240920.
 
 <img src="/people/images/GroupPhotos/Yang et al 2025-02-13.jpg" width="800" align="center" hspace="20" target="_blank" title="LEAD-GroupPhoto" />
-(Photo above) Dr. Yang and new visiting student and some of LEAD Group members, lunch at UT Austin, photo taken at 202.
-
-**Figure Caption:**  
-Dr. Yang, visiting student Gabe Larouche, and several LEAD Group members enjoying lunch at UT Austin on February 13, 2025.  
+(Photo above) Dr. Yang, visiting student Gabe Larouche, and several LEAD Group members at UT Austin on February 13, 2025.  
 *(From left to right: Sasanka, Mbarak, Chenxi Hu, Chieh-Chen Lee, Jagger Alexander, Zong-Liang Yang, Gabe Larouche, Shokoufeh Khojeh, Xinxin Sui, Harsh Kamath, Shyama Mohanty, Naveen Sudharsan, and Manmeet Singh.)*
 
 <br>
