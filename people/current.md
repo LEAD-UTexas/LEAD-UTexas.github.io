@@ -80,23 +80,9 @@ subtitle:
     <em>Specialization???</em></p>
   </div>
   
-  <div style="width: 100%; max-width: 200px; margin: 0 auto;">
-    <a href="https://www.jsg.utexas.edu/student/mahmoud_mbarak/">
-      <img src="/people/images/placeholder.jpg" alt="Mahmoud Mbarak" style="width: 100%;"/>
-      <h4>Mahmoud Mbarak</h4>
-    </a>
-    <p>PhD starting in 2021, co-supervised by Dr.Marc Hesse
-    <em>Specialization???</em></p>
-  </div>
+  
 
-  <div style="width: 100%; max-width: 200px; margin: 0 auto;">
-    <a href="https://scholar.google.com/citations?user=w1AJmpYAAAAJ&hl=en">
-      <img src="/people/images/Sui.jpg" alt="Xinxin Sui" style="width: 100%;"/>
-      <h4>Xinxin Sui</h4>
-    </a>
-    <p>PhD starting in 2021, co-supervised by Dr.Yang
-    <em>Urban Hydroclimatology</em></p>
-  </div>
+
 
 <!--  <div style="width: 100%; max-width: 200px; margin: 0 auto;">
     <a href="https://lead-utexas.github.io/people/members/Liang/">
@@ -108,14 +94,7 @@ subtitle:
   </div>
 --> 
 
-  <div style="width: 100%; max-width: 200px; margin: 0 auto;">
-    <a href="https://jaggeralexander.github.io/">
-      <img src="/people/images/Jagger.jpg" alt="Jagger Alexander" style="width: 100%;"/>
-      <h4>Jagger Alexander</h4>
-    </a>
-    <p>PhD starting in 2022
-    <em>Climate and health</em></p>
-  </div>
+
 
   <div style="width: 100%; max-width: 200px; margin: 0 auto;">
     <a href="https://lead-utexas.github.io/people/members/Liang/">
@@ -152,6 +131,15 @@ subtitle:
     </a>
     <p>PhD starting in 2024
     <em>Land surface model development</em></p>
+  </div>
+
+  <div style="width: 100%; max-width: 200px; margin: 0 auto;">
+    <a href="mailto:zh6789@my.utexas.edu">
+      <img src="/people/images/placeholder.jpg" alt="Hu, Ziming" style="width: 100%;"/>
+      <h4>Hu, Ziming</h4>
+    </a>
+    <p>PhD starting in 2025
+    <em>Hydro modeling and AI</em></p>
   </div>
 
 
