@@ -56,17 +56,6 @@ subtitle:
     <em>Weather and Climate Extremes</em></p>
 </div>
 
-<!--
-<div style="width: 100%; max-width: 200px; margin: 0 auto;">
-<a href="https://lead-utexas.github.io/people/members/ShyamaMohanty/">
-     <img src="/people/images/placeholder.jpg" alt="Shyama Mohanty" style="width: 100%;"/>
-    <h4>Dr. Shyama Mohanty</h4>
-</a>
-    <p>Postdoc starting in 2024
-    <em>Specialization???</em></p>
-</div>
------->
-
 <div style="width: 100%; max-width: 200px; margin: 0 auto;">
 <a href="https://manmeet3591.github.io/">
      <img src="/people/images/Manmeet.jpg" alt="Manmeet" style="width: 100%;"/>
@@ -164,27 +153,7 @@ subtitle:
     <p>PhD starting in 2024
     <em>Land surface model development</em></p>
   </div>
-  
-<!--  <div style="width: 100%; max-width: 200px; margin: 0 auto;">
-    <a href="https://lead-utexas.github.io/people/members/Liang/">
-      <img src="/people/images/placeholder.jpg" alt="Rakshith" style="width: 100%;"/>
-      <h4>Rakshith</h4>
-    </a>
-    <p>PhD starting in 2024
-    <em>Specialization???</em></p>
-  </div>
--->
 
-<!--
-  <div style="width: 100%; max-width: 200px; margin: 0 auto;">
-    <a href="https://lead-utexas.github.io/people/members/Liang/">
-      <img src="/people/images/placeholder.jpg" alt="Prudhvi" style="width: 100%;"/>
-      <h4>Prudhvi</h4>
-    </a>
-    <p>Master since 2024
-    <em>Specialization???</em></p>
-  </div>
--->
 
 </div>
 
