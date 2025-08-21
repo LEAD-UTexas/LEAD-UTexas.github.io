@@ -201,10 +201,10 @@ subtitle:
 
 <h2>Group Photos</h2>
 <hr>
-<img src="/people/images/GroupPhotos/Yang%2C%20Ana%20Barros%20et%20al.%20lunch%2020240920%20UT%20Austin%2C%20Photo%20taken%20by%20Jingxin%20Liang.jpg" width="800" align="center" hspace="20" target="_blank" title="LEAD-GroupPhoto" />
+<img src="/people/images/GroupPhotos/Yang%2C%20Ana%20Barros%20et%20al.%20lunch%2020240920%20UT%20Austin%2C%20Photo%20taken%20by%20Jingxin%20Liang.jpg" width="800" align="center" hspace="20" target="_blank" title="LEAD-GroupPhoto" alt="LEAD Group Photo" />
 (Photo above) Dr. Ana Barros et al. and Dr. Yang and some of LEAD Group members, lunch at UT Austin, photo taken by Jingxin Liang at 20240920.
 
-<img src="/people/images/GroupPhotos/Yang et al 2025-02-13.jpg" width="800" align="center" hspace="20" target="_blank" title="LEAD-GroupPhoto" />
+<img src="/people/images/GroupPhotos/Yang et al 2025-02-13.jpg" width="800" align="center" hspace="20" target="_blank" title="LEAD-GroupPhoto" alt="LEAD Group Photo" />
 (Photo above) Dr. Yang, visiting student Gabe Larouche, and several LEAD Group members at UT Austin on February 13, 2025.  
 *(From left to right: Sasanka, Mbarak, Chenxi Hu, Chieh-Chen Lee, Jagger Alexander, Zong-Liang Yang, Gabe Larouche, Shokoufeh Khojeh, Xinxin Sui, Harsh Kamath, Shyama Mohanty, Naveen Sudharsan, and Manmeet Singh.)*
 
