@@ -18,6 +18,14 @@ subtitle:
 
 <h2>Postdoctoral Fellows or Research Associates</h2>
 <hr>
+
+<div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
+	Manmeet Singh
+</div>
+<div style="clear:both;"></div>
+<p>Distinguished Postdoc starting in 2024</p>
+<p><em>Now a faculty member at Western Kentucky University</em></p>
+
 <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; text-align: center;">
 
  <div style="width: 100%; max-width: 200px; margin: 0 auto;">
@@ -153,6 +161,21 @@ subtitle:
 
 <h2>Graduate Students Mentored, Supervised or Sponsored</h2>
 <hr>
+
+<div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
+	Jagger Alexander
+</div>
+<div style="clear:both;"></div>
+<p>Ph.D. (2025), University of Texas at Austin.</p>
+<p>Currently pursuing a medical PhD at a new university.</p>
+
+<div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
+	Xinxin Sui
+</div>
+<div style="clear:both;"></div>
+<p>Ph.D. (2025), University of Texas at Austin.</p>
+<p>Currently seeking a postdoc or faculty position.</p>
+
 <div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
 	Xitian Cai
 </div>
@@ -731,5 +754,26 @@ subtitle:
 
 <h2>Undergraduate students</h2>
 <hr>
+
+<div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
+	Jingxin Liang
+</div>
+<div style="clear:both;"></div>
+<p>Undergrad starting in 2021</p>
+<p><em>Now at Duke University for her MS</em></p>
+
+<div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
+	Danny Xu
+</div>
+<div style="clear:both;"></div>
+<p>Undergrad starting in 20??</p>
+<p><em>Specialization???</em></p>
+
+<div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
+	Isa Kazen
+</div>
+<div style="clear:both;"></div>
+<p>Undergrad starting in 20??</p>
+<p><em>Now focusing on her Physics degree</em></p>
 
 <br><!-- <br>-->

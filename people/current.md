@@ -186,14 +186,7 @@ subtitle:
          <p>Undergrad starting in 20??</p>
          <p><em>Specialization???</em></p>
      </div>     
-     <div style="width: 100%; max-width: 200px; margin: 0 auto;">
-         <a href="https://lead-utexas.github.io/people/members/Liang/">
-           <img src="/people/images/placeholder.jpg" alt="Isa Kazen" style="width: 100%;"/>
-           <h4>Isa Kazen</h4>
-         </a>
-         <p>Undergrad starting in 20??</p>
-         <p><em>Specialization???</em></p>
-     </div>
+     
 </div>
 
 <br><!-- <br>-->
