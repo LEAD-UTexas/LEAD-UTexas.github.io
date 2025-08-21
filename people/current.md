@@ -56,14 +56,6 @@ subtitle:
     <em>Weather and Climate Extremes</em></p>
 </div>
 
-<div style="width: 100%; max-width: 200px; margin: 0 auto;">
-<a href="https://manmeet3591.github.io/">
-     <img src="/people/images/Manmeet.jpg" alt="Manmeet" style="width: 100%;"/>
-<h4>Manmeet Singh</h4>
-</a>
-     <p>Distinguished Postdoc starting in 2024
-     <em>Climate data science</em></p>
-</div>
 
 </div>
 
@@ -164,28 +156,12 @@ subtitle:
 <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; text-align: center;">
      <div style="width: 100%; max-width: 200px; margin: 0 auto;">
          <a href="https://lead-utexas.github.io/people/members/Liang/">
-           <img src="/people/images/placeholder.jpg" alt="Jingxin Liang" style="width: 100%;"/>
-           <h4>Jingxin Liang</h4>
-         </a>
-         <p>Undergrad starting in 2021</p>
-         <p><em>Specialization???</em></p>
-     </div>
-     <div style="width: 100%; max-width: 200px; margin: 0 auto;">
-         <a href="https://lead-utexas.github.io/people/members/Liang/">
            <img src="/people/images/placeholder.jpg" alt="Raymond Luong" style="width: 100%;"/>
            <h4>Raymond Luong</h4>
          </a>
          <p>Undergrad starting in 2023?</p>
          <p><em>Specialization???</em></p>
      </div>
-     <div style="width: 100%; max-width: 200px; margin: 0 auto;">
-         <a href="https://lead-utexas.github.io/people/members/Liang/">
-           <img src="/people/images/placeholder.jpg" alt="Danny Xu" style="width: 100%;"/>
-           <h4>Danny Xu</h4>
-         </a>
-         <p>Undergrad starting in 20??</p>
-         <p><em>Specialization???</em></p>
-     </div>     
      
 </div>
 
