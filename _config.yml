@@ -216,9 +216,8 @@ prose:
           label: "Publish"
           help: "Check to publish post, uncheck to hide."
 
-gems:
+plugins:
   - jekyll-paginate
-plugins: 
   - jekyll-sitemap
 
 # Beautiful Jekyll / Dean Attali
