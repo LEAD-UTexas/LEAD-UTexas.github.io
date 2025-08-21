@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://lead-utexas.github.io/sitemap.xml
