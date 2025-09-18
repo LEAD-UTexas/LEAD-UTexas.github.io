@@ -177,51 +177,6 @@ subtitle:
 <p>Currently seeking a postdoc or faculty position.</p>
 
 <div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
-	Xinxin Sui
-</div>
-<div style="font-size: 15px !important; color: #555; float:left;">
-	<a href="mailto:xsui???@utexas.edu" target="_top" title="email" style="margin-right: 8px">
-		<img src="/people/images/email-icon.png" width="auto" height="15" alt="email"/>
-	</a>
-	<a href="https://scholar.google.com/citations?user=w1AJmpYAAAAJ&hl=en" target="_blank" title="Website" style="margin-right: 8px">
-		<img src="/people/images/website-icon.png" width="auto" height="20" alt="website"/>
-	</a>
-</div>
-<div style="clear:both;"></div>
-<p>Ph.D. Student (2021-2025), University of Texas at Austin.</p>
-<p>Urban Hydroclimatology, co-supervised by Dr. Yang.</p>
-
-<div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
-	Mahmoud Mbarak
-</div>
-<div style="font-size: 15px !important; color: #555; float:left;">
-	<a href="mailto:mmbarak???@utexas.edu" target="_top" title="email" style="margin-right: 8px">
-		<img src="/people/images/email-icon.png" width="auto" height="15" alt="email"/>
-	</a>
-	<a href="https://www.jsg.utexas.edu/student/mahmoud_mbarak/" target="_blank" title="Website" style="margin-right: 8px">
-		<img src="/people/images/website-icon.png" width="auto" height="20" alt="website"/>
-	</a>
-</div>
-<div style="clear:both;"></div>
-<p>Ph.D. Student (2021-2025), University of Texas at Austin.</p>
-<p>Co-supervised by Dr. Marc Hesse.</p>
-
-<div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
-	Jagger Alexander
-</div>
-<div style="font-size: 15px !important; color: #555; float:left;">
-	<a href="mailto:jagger???@utexas.edu" target="_top" title="email" style="margin-right: 8px">
-		<img src="/people/images/email-icon.png" width="auto" height="15" alt="email"/>
-	</a>
-	<a href="https://jaggeralexander.github.io/" target="_blank" title="Website" style="margin-right: 8px">
-		<img src="/people/images/website-icon.png" width="auto" height="20" alt="website"/>
-	</a>
-</div>
-<div style="clear:both;"></div>
-<p>Ph.D. Student (2022-2025), University of Texas at Austin.</p>
-<p>Climate and health.</p>
-
-<div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
 	Xitian Cai
 </div>
 <div style="font-size: 15px !important; color: #555; float:left;">
