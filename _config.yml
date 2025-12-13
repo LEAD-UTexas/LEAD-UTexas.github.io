@@ -28,7 +28,7 @@ navbar-links:
    
   Opportunities:
   - Prospective Students: "opportunities/prospective-students"
-  - ?Jobs: "opportunities/Jobs"
+  # # - ?Jobs: "opportunities/Jobs"
 
   People: 
    - Current: "people/current"
@@ -36,18 +36,18 @@ navbar-links:
 
   Research:
    - Publications: "research/publications"
-   - ?Overview: "research/overview"
-   - ?Projects: "research/projects"
-   - ?Codes: "research/models"
-   - ?Data: "research/data"
-   - ?Lecture Videos: "research/lectures"
+   # - ?Overview: "research/overview"
+   # - ?Projects: "research/projects"
+   # - ?Codes: "research/models"
+   # - ?Data: "research/data"
+   # - ?Lecture Videos: "research/lectures"
 
   ?Teaching: "teaching"
 
   About:
    - Contact: "about/contact"
-   - ?Photos: "about/photos"
-   - ?Announcements: "about/announcements"
+   # - ?Photos: "about/photos"
+   # - ?Announcements: "about/announcements"
    # - ?Work Ethic: "about/WorkEthic"
   # ?Presentations: "presentation"
   # ?Photos: "photos"
