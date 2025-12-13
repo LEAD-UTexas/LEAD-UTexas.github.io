@@ -113,7 +113,7 @@ subtitle:
       <h4>Shokoufeh Khojeh</h4>
     </a>
     <p>PhD starting in 2023
-    <em>Flooding</em></p>
+    <em>Urban rainfall and flooding</em></p>
   </div>
   
   <div style="width: 100%; max-width: 200px; margin: 0 auto;">
