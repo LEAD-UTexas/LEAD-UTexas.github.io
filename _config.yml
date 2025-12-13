@@ -81,7 +81,7 @@ navbar-links:
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: <a href="https://lead-utexas.github.io/about/contact/">Contact/Inquiries</a>
+  name: LEAD Group
   # email: "https://lead-utexas.github.io/about/contact"
   # github: ???????    # eg. daattali
   # twitter: zlyang   # eg. daattali
