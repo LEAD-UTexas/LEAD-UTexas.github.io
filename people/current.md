@@ -127,7 +127,7 @@ subtitle:
 
   <div style="width: 100%; max-width: 200px; margin: 0 auto;">
     <a href="mailto:zh6789@my.utexas.edu">
-      <img src="/people/images/placeholder.jpg" alt="Hu, Ziming" style="width: 100%;"/>
+      <img src="/people/images/Ziming.jpg" alt="Hu, Ziming" style="width: 100%;"/>
       <h4>Hu, Ziming</h4>
     </a>
     <p>PhD starting in 2025
