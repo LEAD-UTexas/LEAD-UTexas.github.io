@@ -42,7 +42,7 @@ navbar-links:
    # - ?Data: "research/data"
    # - ?Lecture Videos: "research/lectures"
 
-  ?Teaching: "teaching"
+  # ?Teaching: "teaching"
 
   About:
    - Contact: "about/contact"
