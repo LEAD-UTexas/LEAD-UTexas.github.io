@@ -4,7 +4,7 @@ title: Koutian Wu
 subtitle: 
 ---
 
-<p id="Wu"></p>
+<p id="Koutian"></p>
 
 <div style="font-size: 20px !important; color: #0055A9; float:left; margin-right: 20px; font-weight: bold;">
 	Koutian Wu
