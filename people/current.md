@@ -117,8 +117,8 @@ subtitle:
   </div>
   
   <div style="width: 100%; max-width: 200px; margin: 0 auto;">
-    <a href="https://lead-utexas.github.io/people/members/Wu/">
-      <img src="/people/images/Wu.jpg" alt="Koutian Wu" style="width: 100%;"/>
+    <a href="https://lead-utexas.github.io/people/members/Koutian/">
+      <img src="/people/images/Koutian.jpg" alt="Koutian Wu" style="width: 100%;"/>
       <h4>Koutian Wu</h4>
     </a>
     <p>PhD starting in 2024

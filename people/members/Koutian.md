@@ -24,5 +24,5 @@ subtitle:
 
 <br>
 
-<img src="/people/images/Wu.jpg" width="150" height="auto" align="left" hspace="20" />
+<img src="/people/images/Koutian.jpg" width="150" height="auto" align="left" hspace="20" />
 <span style="">Koutian Wu (Wu) is a first-year Ph.D. student in the LEAD Group at UT Austin. Office at JGB 5.320. He is interested in enhancing the capabilities of land-climate models, and ultimately aims to combine high-resolution modeling, in-situ measurements, and remote sensing to address emerging climate challenges. Currently, Wu is working on integrating rock moisture and wood moisture into the hydrological cycle using the Noah-MP model. Wu presented his undergraduate work at the AGU 2023, where he was the first author in a poster session. He has presented case studies at the Top Innovative Talents Symposium at Tsinghua University. Wu graduated from the School of Earth and Space Sciences at the University of Science and Technology of China (USTC) in 2024. He has been recognized with the "Honorary Rank" by USTC.</span>
