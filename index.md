@@ -7,11 +7,11 @@ subtitle: land surface processes, climate modeling, land-atmosphere interaction,
 
 ## News
 
-- <strong>January 2025</strong> - Attend AMS Meeting
-- <strong>December 2025</strong> - Dr. Zong-Liang Yang was honored to be named an AGU Fellow
+- <strong>January 2026</strong> - Attend AMS Meeting.
+- <strong>December 2025</strong> - Attend AGU Meeting. Dr. Zong-Liang Yang was honored to be named an AGU Fellow!
 - <strong>May - December 2025</strong> - Jagger, Sui, and Mbarak graduated from our group. Congratulations!
 - <strong>Spring 2025</strong> - Congratulations to Shuku for passing the qualifying exam!
-- <strong>January 2025</strong> - Dr. Zong-Liang Yang was honored to be named an AMS Fellow
+- <strong>January 2025</strong> - Dr. Zong-Liang Yang was honored to be named an AMS Fellow!
 
 <img src="img/LEAD.jpg" width="820" align="center"/>
 
