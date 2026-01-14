@@ -2,16 +2,16 @@
 layout: page
 title: LEAD Group @ UT-Austin
 permalink: 
-subtitle: land surface processes, climate modeling, land-atmosphere interaction, hydroclimatology, hydrometeorology
+subtitle: The Land, Environment, and Atmospheric Dynamics (LEAD) Group at The University of Texas at Austin is dedicated to advancing Earth System Science through integrated research in land-atmosphere interactions, hydroclimatology, and climate modeling. By leveraging satellite remote sensing, high-performance computing, and mechanistic models like Noah-MP, we bridge the gap between fundamental physics and societal challenges, from weather extreme prediction to long-term environmental defense.
 ---
 
 ## News
 
-- <strong>January 2026</strong> - Attend AMS Meeting.
-- <strong>December 2025</strong> - Attend AGU Meeting. Dr. Zong-Liang Yang was honored to be named an AGU Fellow!
-- <strong>May - December 2025</strong> - Jagger, Sui, and Mbarak graduated from our group. Congratulations!
-- <strong>Spring 2025</strong> - Congratulations to Shuku for passing the qualifying exam!
-- <strong>January 2025</strong> - Dr. Zong-Liang Yang was honored to be named an AMS Fellow!
+- <strong>January 2026 – AMS Annual Meeting:</strong> Our group is presenting the latest research on land surface processes and hydroclimate extremes at the AMS Meeting in Houston.
+- <strong>December 2025 – Major Honor:</strong> Dr. Zong-Liang Yang has been elected a 2025 AGU Fellow, recognized for his pioneering leadership and outstanding contributions to the understanding of land surface interactions.
+- <strong>December 2025 – Congratulations to our Graduates!</strong> We celebrate the successful defenses and graduations of Jagger, Sui, and Mbarak. We wish them success in their future careers.
+- <strong>September 2025 – Milestone:</strong> Congratulations to Shuku for successfully passing the qualifying exam and advancing to PhD candidacy!
+- <strong>January 2025 – Major Honor:</strong> Dr. Zong-Liang Yang has been named an AMS Fellow, recognizing excellence in the atmospheric and related sciences.
 
 <img src="img/LEAD.jpg" width="820" align="center"/>
 
