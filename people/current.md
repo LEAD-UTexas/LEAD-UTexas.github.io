@@ -94,7 +94,7 @@ subtitle:
       <h4>Chieh-Chen Lee</h4>
     </a>
     <p>PhD starting in 2022
-    <em>Specialization???</em></p>
+    <em>Specialization: Extreme precipitation</em></p>
   </div>
 
 <!--  <div style="width: 100%; max-width: 200px; margin: 0 auto;">
